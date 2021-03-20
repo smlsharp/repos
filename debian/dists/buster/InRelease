@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Suite: buster
+Architectures: amd64
+Components: main
+Origin: smlsharp
+Description: SML# project
+Date: Mon, 15 Mar 2021 05:14:20 +0000
+MD5Sum:
+ 10a9641e33665fa82a605e92e6292ca4            31572 main/binary-amd64/Packages
+ b63149491c7cf6b6d4602282176fdcb7             6492 main/binary-amd64/Packages.xz
+ fff2a3d0cae1da0e19674f7dc1d58ed2            12178 main/source/Sources
+ 9a78a63f4fe44153be33da98e38b1c06             3344 main/source/Sources.xz
+SHA1:
+ 89dbe75e7d2fde11d4a1250dbb7d499cc2b17091            31572 main/binary-amd64/Packages
+ 1a8b5ccd6621232ff63f121563c7a2e4e33e37e2             6492 main/binary-amd64/Packages.xz
+ 8df9527117462bfc022f6a6e4c66e5f82446b2b4            12178 main/source/Sources
+ 011180f5992878736183b774cbe3c3a1c590814a             3344 main/source/Sources.xz
+SHA256:
+ 330619a0ecc90e357cc7ed5fc23c826b4dd76ed0c6a38496f13f9a20a0316101            31572 main/binary-amd64/Packages
+ 5796e9f80620e2248bcd3296ab830d9e37756bbb4dc0ae922a8452654d8a6cd1             6492 main/binary-amd64/Packages.xz
+ 90be5b82b5e5295e3bea3e681aa5f81268a869ccde2e255358565d3521f27948            12178 main/source/Sources
+ cba367aa8695d3cab336998a7c08e160d6ec864d2d398e5734cfed78e8ca6fbd             3344 main/source/Sources.xz
+SHA512:
+ ccf97f8cdacbcadd95ec50efbd12136fa5314ace61d2129166ddd3e834e8c014078b4331439fa3cbee9f34980185f09958643bf9850b2632c4f271f9ca729a29            31572 main/binary-amd64/Packages
+ 4e7873b480f0b51498a116b8d03440a3e43ab9077fb1d436011afaa5cacd8ce7be33c69eba1ad7671c5e01ec1156dd2f2d36b4d0b40ed31726ef7cd4b308fd27             6492 main/binary-amd64/Packages.xz
+ 1fa8c1867cde1a6be13240d2bad2f1455ca699df90dbad7896cd5cc50bdb459c2ac519e7ee5122ce514edcc4126dacb4638142363005370ba4cf93871d74c641            12178 main/source/Sources
+ 63dbbca2547c8a519e2d458dcdd9d534e2680db84eb475f1d685bca2c0b929995eca7acaec08b4599be34fec8c35e8ace2751f939dc74cb519d429270eaf2d46             3344 main/source/Sources.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQJWBAEBCABAFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmBO7SwiHHNtbHNoYXJw
+LWRldkBtbC5yaWVjLnRvaG9rdS5hYy5qcAAKCRDSmfcfxcHRLnSZEACQU9xIpesW
+UV33fZSCcNcjpoortJ/ERTPIhSrWukAcVtQ+yadqMbgsRTpeRPoAi9ihxqLZpxAp
+cW8AY04JkRECTzN+lZfqIAo5jl9Bf7ZWk3q6ARCNsk5KapyS73n9D0NSbIjA7Sby
+pcqcvjNBi9pusOSLAnXzSZFuRIyvllx4tTwALoZbvb7eoxDf36mZslONmZTWLwtN
+6nR3pZpWmdRRFdQDWMjkzl8q0XBawWDmJYaMt/jNg73vuMt4A+4sEkBxq+d1bj+u
+csJW9yJGkgEV8QMLVjJNfsMaeJpi3dXWS0u3H3xzs2d1mmNDQ0Avu6WjeJ8sZp+w
+Gv4P//B2uTpIUE27uZMs395CqcMcIWceEAGLuK98YBXSyvOmVfi2SQtEscGkvEZn
+uUffiT7WSMFH3nongfNvXyJzLCHkPBzVA8MLgzgvYaIRuGAqMBKjwCVMRG7jpX5j
+ibAUuwmfNwUVOFgdlBKFx80NO+0yC76XTqhAEmhlAo/vZo/Im5sj33KBDbBefgdQ
+aEE2rD/hBI0mQjIxMLS9Iu1gAAmUrCqyyZ98OQb11R6WTPrhy2DQzRjAH/NRBwNg
+yQJD/e9gqhDQaF7EnPX1YdR7e/RqYLS1TjHwTX1zr5dqCQQQ7ftnOPSLJVoHg4eG
+tXcjq/cCipFO3OjieJ5Qzq8bOgtEXTEiuw==
+=U5I4
+-----END PGP SIGNATURE-----

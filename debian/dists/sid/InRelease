@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Suite: sid
+Architectures: amd64
+Components: main
+Origin: smlsharp
+Description: SML# project
+Date: Mon, 15 Mar 2021 05:14:20 +0000
+MD5Sum:
+ 27c7daccb228c72f10a9a46703309784            30749 main/binary-amd64/Packages
+ 5031b018047d48e6f79920ca923c03bf             6504 main/binary-amd64/Packages.xz
+ 0145d62c020bb6e19f60c242c9f4a13c            11641 main/source/Sources
+ a8e90c75a484ee0c20977a5fdc1ffc79             3344 main/source/Sources.xz
+SHA1:
+ 047e237112a084b2c9d8c03dc95783388f173352            30749 main/binary-amd64/Packages
+ 7d53a6f5b39dda8b1ebf92bc663dffafe0868d64             6504 main/binary-amd64/Packages.xz
+ 960e2f2efb267a7589eca81b758c1c17724b65ce            11641 main/source/Sources
+ 131e3f15f1cd1a656d196ab54b59c07e0c6ec393             3344 main/source/Sources.xz
+SHA256:
+ 30cbdae6f78ec29e640318eff69257f305ed9098f0c1be8e1566822d7ce12e13            30749 main/binary-amd64/Packages
+ 669e203ff8b5bf56dc45a3406e80b76e3422ae70a7959ad51b295bce199c6a54             6504 main/binary-amd64/Packages.xz
+ fc1f654603dd452c7580a563a5bed882cfe19af21529cc5ed96bc46b18a3a403            11641 main/source/Sources
+ ea04f15c58be4fc853ea31b997c10c24ff59ab118a8bbcb350d4ed3e2a37c13a             3344 main/source/Sources.xz
+SHA512:
+ d7d9e0c304b0288c461b80cde83c3d36c0383d7a7fa0caeb28283ef3788abd593b290a7eeb88089577cb0409f71e3fd3eae19bd02af47d4a83626511f81edb7f            30749 main/binary-amd64/Packages
+ e988f004ba54a4305d2b0d9920ad150ff28a0084af8236e028a470dea998a0cfa34037a0983f62be93f7948f25eeeebf6279550d381c4b31436c61734c3bf420             6504 main/binary-amd64/Packages.xz
+ 8af40e6d0780fce1c796ea020eb35d023fcfb0c77ec04600e695a91a9cfd1871b6b5ce26066fd267d942d63ef16effe58b5b221a2f0a04cef92adb277686154c            11641 main/source/Sources
+ bf8e50719aad34c24ab9bcb0c134fdc798e0065d92a8364be52225ca889901403e150399e99dcea2b404d00477a48a70247324fb0c7525b343526987ee60174e             3344 main/source/Sources.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQJWBAEBCABAFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmBO7SwiHHNtbHNoYXJw
+LWRldkBtbC5yaWVjLnRvaG9rdS5hYy5qcAAKCRDSmfcfxcHRLrnbEAC+Oyg9f93G
+YXH9N2zJ4lPVABBsN079SbjZoasTnz9kXisFDmJFE9GK1W8p0VDfj9LMx3fi9iEg
+EzVo2WVExuo233l7hxx3p7X9FVW8MeanBTqqfdDRM2AOr+QCNEzj2m5oL+Z1WbuS
+BzOoo0GZtfiDfa8zC+oRKUfXDTl6tOnE9uXAGDAXH4sHiM6t0SNXTBoNx9qXs7x3
+6xGmi/Sjtut0UFl1Z6f/efmT/7VhB0IAcPenEC057ntRYuVYKv6okeq95jgoi4yn
++0GW0QaMWwPnw9/q8mYkQoOfSO89NT5PbJi9agViBzYme0kDciNq7a6OkVcutiBN
++1Wm9WDMkmmvdTFuo7E1xTNyn5AC819PLE9yv2ynO/REbbD/L/qm4yGYBsIVSPaA
++D7ZZQRhTQf4mXKg9EZ0d2nSk17EjnySwutk7Opqchva11xwVJeTna9KDr9Tg1sa
+SRobcNc+cnrHU0U5yZTRVFTu4w3/4Wd7T+AI8U40yFMGfH9WMQH92N2Iwc5DGBcw
+huUGg22d3LaKOA+Hy1jbMHXuu97tHWMv7z1g8xirpCjjx/i+f6xS3sj3wQO/+ZR5
+qvS4ZMn1V7xks8MrE5467Mzmw2/F0bhUEQMuO2sZiR7lSm0c73Zd/B1F9lRB2r32
+D6KBCWv5lsz8QuFbKalmx6+G78VmSL6BQw==
+=AUbx
+-----END PGP SIGNATURE-----

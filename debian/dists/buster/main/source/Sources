@@ -1,0 +1,200 @@
+Package: massivethreads
+Architecture: any all
+Version: 1.00-1+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: https://github.com/massivethreads/massivethreads
+Format: 3.0 (quilt)
+Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
+Standards-Version: 4.4.1
+Build-Depends: debhelper (>= 12), libsqlite3-dev
+Directory: pool/m/massivethreads
+Package-List:
+ massivethreads deb libs optional arch=any
+ massivethreads-dev deb libdevel optional arch=any
+ massivethreads-dl deb devel optional arch=any
+ massivethreads-doc deb doc optional arch=all
+ massivethreads-dr deb devel optional arch=any
+ massivethreads-dr-dev deb libdevel optional arch=any
+ massivethreads-ld deb libs optional arch=any
+ massivethreads-ld-dev deb libdevel optional arch=any
+Files:
+ 83a74ce15d64e313c0647c7c8a3d0151 2326 massivethreads_1.00-1+1~buster1.dsc
+ e7eed33d10f7fa0969c931b01d560d74 2876161 massivethreads_1.00.orig.tar.gz
+ ffa3c743f6efd1c8dd12c67c71e999e8 3372 massivethreads_1.00-1+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ 04c92af2dc7e85691902160142b21146325385cb 2326 massivethreads_1.00-1+1~buster1.dsc
+ 07edcd5bc38dc90dc534f60c7b47a9355c896b81 2876161 massivethreads_1.00.orig.tar.gz
+ 649ef95d89381d053ffd0486c0d6989b22523bfb 3372 massivethreads_1.00-1+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ c7bb7f1084c8b16da9b124cce4703ad2f6ad4d6ce31658bf49e8a783a4e6a214 2326 massivethreads_1.00-1+1~buster1.dsc
+ 85b83ff096e2984c725faa4814a9c5e77c143198660ec60118b897afdfd05f98 2876161 massivethreads_1.00.orig.tar.gz
+ 1850c043c65c83cc4b0231da7f1f92b1091d731fad57d3298de3b4ffdb2649de 3372 massivethreads_1.00-1+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ 128256c57fbcfbe0ddae286dc6a83634dadb09fb9366fd3a99b55cd006b6e629271df6d80fb20c7e4d70382285313cb22cbb30e74c416ded6cc78eefe6f6d544 2326 massivethreads_1.00-1+1~buster1.dsc
+ aaea978bf0d41a9a97ccf0d8c5be318feb1e547e72f7dea267ddc3a18d653831465d531c193f79e8f75d75b12945d3dab882d93596d90dda7f70676fe87ea72e 2876161 massivethreads_1.00.orig.tar.gz
+ b333438c909241b0ab28216cf568b28904ca8440d729ef7c5ab1b2d9ce29747e23520bc6acbd5728b71c3387855aa3cec37fdccde07b8850f9e42eab7470b7ef 3372 massivethreads_1.00-1+1~buster1.debian.tar.xz
+
+Package: massivethreads
+Architecture: any all
+Version: 1.00-2+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: https://github.com/massivethreads/massivethreads
+Format: 3.0 (quilt)
+Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 12), libsqlite3-dev
+Directory: pool/m/massivethreads
+Package-List:
+ massivethreads deb libs optional arch=any
+ massivethreads-dev deb libdevel optional arch=any
+ massivethreads-dl deb devel optional arch=any
+ massivethreads-doc deb doc optional arch=all
+ massivethreads-dr deb devel optional arch=any
+ massivethreads-dr-dev deb libdevel optional arch=any
+ massivethreads-ld deb libs optional arch=any
+ massivethreads-ld-dev deb libdevel optional arch=any
+Files:
+ 8664ca5d3460d28c7bd3701dad21299a 2326 massivethreads_1.00-2+1~buster1.dsc
+ e7eed33d10f7fa0969c931b01d560d74 2876161 massivethreads_1.00.orig.tar.gz
+ 154e47e3e0807a8e50629001c55f6002 3656 massivethreads_1.00-2+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ d3aaf01d92e019e91a86af2412ce8dd45cc5864d 2326 massivethreads_1.00-2+1~buster1.dsc
+ 07edcd5bc38dc90dc534f60c7b47a9355c896b81 2876161 massivethreads_1.00.orig.tar.gz
+ 5e29666dde19b1d0cdb13c1ebaf09621bb9cfffe 3656 massivethreads_1.00-2+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ c2e287275e660a13842db0075b66aab9081a407fce16099dd87660d59a796f9f 2326 massivethreads_1.00-2+1~buster1.dsc
+ 85b83ff096e2984c725faa4814a9c5e77c143198660ec60118b897afdfd05f98 2876161 massivethreads_1.00.orig.tar.gz
+ f636120a20aa0be08663ce5ce958a60074db69e3a813192251a138fb8dcfc885 3656 massivethreads_1.00-2+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ 65aadae7f06a1100a8856023d46428ebfd110240ef394f63fe24c03d21bd5a39aa33de62eb4e8033c5a06e8fde0ab2a32f0ff07652c4bd5daaf384b52bc74c80 2326 massivethreads_1.00-2+1~buster1.dsc
+ aaea978bf0d41a9a97ccf0d8c5be318feb1e547e72f7dea267ddc3a18d653831465d531c193f79e8f75d75b12945d3dab882d93596d90dda7f70676fe87ea72e 2876161 massivethreads_1.00.orig.tar.gz
+ 58e23eda5ac3d903357bb3075269031a92fee3278a4151592ac22bd8a9d2357ec0e39b842dc9a29f4969bb2d91f3080d4ffc0ce16126d7d19c227a0026250a56 3656 massivethreads_1.00-2+1~buster1.debian.tar.xz
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.5.0-1+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
+Standards-Version: 4.4.1
+Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Directory: pool/s/smlsharp
+Package-List:
+ smlformat deb devel optional arch=amd64
+ smllex deb devel optional arch=amd64
+ smlsharp deb devel optional arch=amd64
+ smlyacc deb devel optional arch=amd64
+Files:
+ e5b4e98f98396368eeaa91d67a9c52d4 1992 smlsharp_3.5.0-1+1~buster1.dsc
+ 84c039eac265eecb1a22502a84e4f203 6909365 smlsharp_3.5.0.orig.tar.gz
+ b6b92d6a5b91a7eac22ab26adf8c9394 3172 smlsharp_3.5.0-1+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ b32c09ae90b655e93460949bc6e077a84bef76e5 1992 smlsharp_3.5.0-1+1~buster1.dsc
+ 80321463dd36fe6be690e6a6990b039c21356028 6909365 smlsharp_3.5.0.orig.tar.gz
+ 69022afe3d48f544fcfa8a7268ae629c2f3ba399 3172 smlsharp_3.5.0-1+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ 4fd4f546cf6a032d122dd0e4dbdf13ca7a22632938d148b81f638a99360db677 1992 smlsharp_3.5.0-1+1~buster1.dsc
+ 0ef9861685b6b02b6ea81e659563f955c48f156b75b92782e769bb25f07b2ad8 6909365 smlsharp_3.5.0.orig.tar.gz
+ 0492aa2736c895b6224e01081b810a67867728f24e927926fda343074add5cb6 3172 smlsharp_3.5.0-1+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ e3e6407977330b001abb229e5fbb331d95b85167a5d139bc46275d7c9afc16c41c40e86e0829d268c7806e5e6bcd7281e3cdd4c4b4639cfdf20ce9d8009024d6 1992 smlsharp_3.5.0-1+1~buster1.dsc
+ fd7011ad52c32960fd95862e03fefaf17cceff46f84514a1e26544dbd97a5c485ae95f4a3b19184e6bbfa2138f9c355801b2c5f99979070583e73dee60e03032 6909365 smlsharp_3.5.0.orig.tar.gz
+ f1479c2e0484944786f7eac2a5674de4a43512d0e5cd61b815336fa1805b3641604b4f9aab8af0f3c12d283178b854916513e4cc5564383ba9638688ec8d5262 3172 smlsharp_3.5.0-1+1~buster1.debian.tar.xz
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.6.0-1+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
+Standards-Version: 4.4.1
+Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Directory: pool/s/smlsharp
+Package-List:
+ smlformat deb devel optional arch=amd64
+ smllex deb devel optional arch=amd64
+ smlsharp deb devel optional arch=amd64
+ smlyacc deb devel optional arch=amd64
+Files:
+ 4d076e4e1f9372a416ae65edebeafdfb 1992 smlsharp_3.6.0-1+1~buster1.dsc
+ 3702c28c43fb190a52fedeccc579c1a9 6951619 smlsharp_3.6.0.orig.tar.gz
+ 56ad471c6b748d019c236d2f2396ca10 3192 smlsharp_3.6.0-1+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ 752b3ef29bba47f8129d68b05396cff253aadba5 1992 smlsharp_3.6.0-1+1~buster1.dsc
+ 16520ada49de60a14420c51b2a28ca004d918dcb 6951619 smlsharp_3.6.0.orig.tar.gz
+ efaa39c75b0bf8d9e8b3452d181459391b279868 3192 smlsharp_3.6.0-1+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ dbe6b01689bd4ad993e483097d33daac10a4fc8a359b1b2c276fcc68678c5fdc 1992 smlsharp_3.6.0-1+1~buster1.dsc
+ 83790d5e6b468a08f7fb221f0c2682f4243aaff063c4c43533734e4232e7720b 6951619 smlsharp_3.6.0.orig.tar.gz
+ 382bd9905d35b9fe90f8b83b6c787a2795e1f815cf530b40ae0cd820dd6ebcec 3192 smlsharp_3.6.0-1+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ 18cba3f73e576f8c84ffda64a5f68b897f4bf8bbc973a455925e9203d66d6c9d0c3b5f93c4e451599c070d4e1e8b9761bcbfdaafeb71c4fe511b40cf086683e1 1992 smlsharp_3.6.0-1+1~buster1.dsc
+ 4e4f3da569c22267fd1ff624d60d92ade265eedc8a94c59c9dc150ff8503dc82690d5183694ab2523d3e9e182b7b4edb0bd8a821f78955077595db8607a674bd 6951619 smlsharp_3.6.0.orig.tar.gz
+ 15abd380ddf9f50eee772f37ed11377bf29a7c1e150efd295fa9c7562762fdcfd4e56b1791c43060d6c5a2d40125a2ea401801b0729f0f442783b04c2c2fbe83 3192 smlsharp_3.6.0-1+1~buster1.debian.tar.xz
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.7.0-1+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, massivethreads-dev
+Directory: pool/s/smlsharp
+Package-List:
+ smlformat deb devel optional arch=amd64
+ smllex deb devel optional arch=amd64
+ smlsharp deb devel optional arch=amd64
+ smlyacc deb devel optional arch=amd64
+Files:
+ 1669fc565799d3ed9886e0f2201fd98d 1972 smlsharp_3.7.0-1+1~buster1.dsc
+ e6cf2643f152be5cb7d15e5de43e2e69 7378279 smlsharp_3.7.0.orig.tar.gz
+ 5094d5cf19581930d022e88da9070326 3200 smlsharp_3.7.0-1+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ 0af8cffcf5271c39dc7dcc021ce0e3507174d707 1972 smlsharp_3.7.0-1+1~buster1.dsc
+ 8d19d10edaa127985a2a44486e0d05d9685804c7 7378279 smlsharp_3.7.0.orig.tar.gz
+ 5c31d52f1b22783d2b2edcbc17707b236875b9c2 3200 smlsharp_3.7.0-1+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ 9ff89790b5c0bf5f42f56f14855b42268dfbe1c49a2348e2b882db8e0f5e311a 1972 smlsharp_3.7.0-1+1~buster1.dsc
+ 3464de2af4b030984412a96af2deeaf5b7c36059c7dbb8aa5beb831c5994d0a1 7378279 smlsharp_3.7.0.orig.tar.gz
+ aa1f5987c97a3810599e073a775ecb6d2a3a875831336b2bd06cbca1e7d6fe97 3200 smlsharp_3.7.0-1+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ 57db1f0d49e17cb03e3e672c067f141f19efc393c1f8272c653ada07183e39429b8e89a40f994e3d8554995624a416a02764ab539f4c8c12b340490601e32cee 1972 smlsharp_3.7.0-1+1~buster1.dsc
+ 91d6ad312d0fcf6ecd68693d948548e2a68f6bd502b66edc8e98dbda5121aa98e6a42a4625e0bf2c9aba39777d4043f6878791067bd4431d9023dcb7c0d3c079 7378279 smlsharp_3.7.0.orig.tar.gz
+ dca440fcba6247c7013aafe418e14a7ef00a5cfa23429e7a1286b3b765eb8f1f2d7e7582af11f1a2cc15ac74434db983e203439631866f11d7b8e25d1b899cc3 3200 smlsharp_3.7.0-1+1~buster1.debian.tar.xz
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.7.1-1+1~buster1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, massivethreads-dev
+Directory: pool/s/smlsharp
+Package-List:
+ smlformat deb devel optional arch=amd64
+ smllex deb devel optional arch=amd64
+ smlsharp deb devel optional arch=amd64
+ smlyacc deb devel optional arch=amd64
+Files:
+ ef7275c385c0ae1928c3c44081cf0e3a 1972 smlsharp_3.7.1-1+1~buster1.dsc
+ 6f4c3dcd4a979645a18549792b99bc46 7390919 smlsharp_3.7.1.orig.tar.gz
+ cd82ccdcd97abcf4a7742dd36a3609c7 3212 smlsharp_3.7.1-1+1~buster1.debian.tar.xz
+Checksums-Sha1:
+ 13c4a3df2570913d8836767dd2cce6d3c39d22d2 1972 smlsharp_3.7.1-1+1~buster1.dsc
+ 341fbdef2f11ab75a4fb01680735807329c0b6fb 7390919 smlsharp_3.7.1.orig.tar.gz
+ e9c1a6b1385efb4b233660956d39ad8a3ef19128 3212 smlsharp_3.7.1-1+1~buster1.debian.tar.xz
+Checksums-Sha256:
+ 49eeefca5dac51d5bd77ca167f1d50323609752569e67bfd9e291f877837b2e1 1972 smlsharp_3.7.1-1+1~buster1.dsc
+ 6dbe0c6c11b6636f9cf5696961782fd43490ea63265d6e19bf387764931f4449 7390919 smlsharp_3.7.1.orig.tar.gz
+ c3cb7316b4c0343b5dfe5f53dc4ea626d62633fb52e33f38934c6705a57007d5 3212 smlsharp_3.7.1-1+1~buster1.debian.tar.xz
+Checksums-Sha512:
+ 6dbaa5d1874446f545b897cf485b45cab27cf5de0c3e1b66f92a0dff02c991615ee711a32eaab090bcc8a4cbf7eb0d5e48aade3c1b6e84bd042cc42ee68a5c18 1972 smlsharp_3.7.1-1+1~buster1.dsc
+ 68390195cf300433f863a1f83afc6fe0768de3aa41552df42a8f95ba4282a1aab76cb121d0ce38c9e9b96f93293b0df4f9a930a7b1f19d222dd14db59a907db2 7390919 smlsharp_3.7.1.orig.tar.gz
+ 50191e3f09092061a6fcaf87ac6eb2b8c76983b8b2bd59782ecd1f67eefbc3f24acab0ec79018617d60d195ee1c961492c7845b6ea5db9b2d0ca36b5745fa9e6 3212 smlsharp_3.7.1-1+1~buster1.debian.tar.xz
+

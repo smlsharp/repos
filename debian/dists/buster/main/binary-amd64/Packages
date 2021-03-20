@@ -1,0 +1,706 @@
+Package: massivethreads-dev
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 396
+Depends: massivethreads (= 1.00-1+1~buster1)
+Suggests: massivethreads-doc
+Filename: pool/m/massivethreads/massivethreads-dev_1.00-1+1~buster1_amd64.deb
+Size: 60128
+MD5sum: b78ddb9985d6150a9005f9e93f9a649d
+SHA1: 27e976de58a8c2c6b4558705e867915f412ee5d0
+SHA256: 797bd6b16d071be03ea99cdb40b546efee86d30b3e6b44f7f384a3693e841f91
+SHA512: ecf20505fe7104aae3b73967c0a617e788e9ef1dc8cd53d3b68ace87a6d39051819c5fe2b5b549d9256505f7ae74c4e4798b211c6c3c4552cd67892cac67de9a
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides the header files and library files needed for
+ compiling software using massivethreads.
+
+Package: massivethreads-dev
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 396
+Depends: massivethreads (= 1.00-2+1~buster1)
+Suggests: massivethreads-doc
+Filename: pool/m/massivethreads/massivethreads-dev_1.00-2+1~buster1_amd64.deb
+Size: 60228
+MD5sum: b13c24e12c234e89d4e71a3b7211d8d9
+SHA1: bb3fe73180e044c1892c3b72008d84e1d366e859
+SHA256: fd9ddbbffe4778fffdcab3a9eb00e7c61e3fdb1fc383ad9b154d29faff30bc51
+SHA512: 06846a6d418dee639ca157c6d93df7dfa47473d10d870a81bc9c029b63d8206893353ed0ea5929f59f95d0827fa6b6b84297347fcc0d21a8d5a3c211704cdfeb
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides the header files and library files needed for
+ compiling software using massivethreads.
+
+Package: massivethreads-dl
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: devel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 285
+Depends: libc6 (>= 2.14)
+Filename: pool/m/massivethreads/massivethreads-dl_1.00-1+1~buster1_amd64.deb
+Size: 61160
+MD5sum: 429d9dd4fc6a261a146f45d49c8fb398
+SHA1: af1b86049ab8ace4886ec2b4ba3f6785974097ff
+SHA256: 5f91e73a2090c319a8c911b54cbf0593f0dce533eec8e630c08d3d0976336dc0
+SHA512: 98722e9ee8eacc95ab61bf84e3ad90fdedc7b9dc24ae4bd1833292f2f4e495bfef68a04d8ee3af2d18b6d75883086d038342ccd959f69e9a60b89418066e8525
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Dynamic Pthread wrapper of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides libmyth-dl, the dynamic Pthread wrapper.
+
+Package: massivethreads-dl
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: devel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 285
+Depends: libc6 (>= 2.14)
+Filename: pool/m/massivethreads/massivethreads-dl_1.00-2+1~buster1_amd64.deb
+Size: 61412
+MD5sum: 5e45165d2f423d2b691e9c9c5f8a96d5
+SHA1: bff377e8d17a4ce6c912ee497d739940cf7147a5
+SHA256: 0621566f40f55dcc06385a0a282f3ea158a34bf7087d75fb184b544603dbd50c
+SHA512: 09d98fb42bc8f65bab2d9768c2d97ebf23cb1263bf9ad96ed047e2a29cbdc4762b448e4ca8ee5a8c0d3e5370db7954d29773de40ecc09acbc18eca6a7f68fb83
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Dynamic Pthread wrapper of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides libmyth-dl, the dynamic Pthread wrapper.
+
+Package: massivethreads-doc
+Architecture: all
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: doc
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1206
+Filename: pool/m/massivethreads/massivethreads-doc_1.00-1+1~buster1_all.deb
+Size: 399204
+MD5sum: b0cdb2da2d75d174ef7eacfb261b02a1
+SHA1: 843c135a26dde89a6a49bb765bce83355964e865
+SHA256: d62a18dd74ea7364ba73bc44562d1de8d2c34e06047e03a92f50719912771595
+SHA512: db94b2032f257c75960d2abafae01ad1b07023a824f1e0bb4b8323ac477915ba791d78a97cbde5a616581077bae38e813be2ad8a52c092894fb3188cdd9b5850
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Library documentation of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides the API documentation.
+
+Package: massivethreads-doc
+Architecture: all
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: doc
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1206
+Filename: pool/m/massivethreads/massivethreads-doc_1.00-2+1~buster1_all.deb
+Size: 399248
+MD5sum: 6a7f7cf6a8e504555642607bbd98971e
+SHA1: 9483199cd467bdeb24ba26c96d25577ca237d54c
+SHA256: b6fbd549a30fa53aafc8c63a81cf4bdbf971b0b2a5f2026de5b6bc68e96299e8
+SHA512: 99cb8e68d72421c7feeedf7ca585290482622c51c7ad5f5c763c1b2ba4ba911ee9a16d37aa4b90637ebf9b75a9392fa18b26b705de6f512da9227ef15d370cb5
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Library documentation of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides the API documentation.
+
+Package: massivethreads-dr-dev
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 269
+Depends: massivethreads-dr (= 1.00-1+1~buster1)
+Suggests: gnuplot, graphviz
+Filename: pool/m/massivethreads/massivethreads-dr-dev_1.00-1+1~buster1_amd64.deb
+Size: 58080
+MD5sum: baff61ea824394bcae034f500a14740c
+SHA1: 6b8e1f9a5fa31da11d053034737095e98aedcae9
+SHA256: 8d3458e4802952fb8630106f4ac0b073d7eb8325bfbb151e139b143782daaacd
+SHA512: 3fd6fcb25999038509b618e21b9c4df32d223ad32946fc73e492cfc897805d2982e854d7df7d809d536d38df021e283088e29fb88aecd587264ba63f477c3314
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads DAG recorder library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides development files and tools related to libdr.
+
+Package: massivethreads-dr-dev
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 269
+Depends: massivethreads-dr (= 1.00-2+1~buster1)
+Suggests: gnuplot, graphviz
+Filename: pool/m/massivethreads/massivethreads-dr-dev_1.00-2+1~buster1_amd64.deb
+Size: 58108
+MD5sum: 5ffd7bb570b0969c3f4c8444e82aa85c
+SHA1: d13ea87f1dd34020c7a54189486d03c775a1f83d
+SHA256: c80a4345473acd26d83be8947396e63f606920a41b75d9118b6d2bb2bddda15d
+SHA512: 7afa8496a3eb34bd7bad8f98e878bddda5fd93bffc6816bc26cc777bf9b74565639155cbcdeb74e280efa88909b1c99e2ae78a63f596c3a816784ac0322baefd
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads DAG recorder library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides development files and tools related to libdr.
+
+Package: massivethreads-dr
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: devel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 152
+Depends: libc6 (>= 2.14), libsqlite3-0 (>= 3.5.9), python, python-matplotlib, python-gtk2
+Filename: pool/m/massivethreads/massivethreads-dr_1.00-1+1~buster1_amd64.deb
+Size: 46656
+MD5sum: f778e1399aff745c394c90d70ae46bf0
+SHA1: b510459be02a1556e4b9e5c90f1554b76f629e32
+SHA256: 2fe7d9ff74756febf17d1cb5be2d1f4101359f08dc7e5f04c5ac2127b6c36018
+SHA512: 370668bb060cf7f045c057f46ce256d2c06f281efedcb534e2e196ffdf1a68b7f58717f1e6636330fd9588999184d064abdfb5e9e4f1c3f6f5b8b9d17346f2a9
+Homepage: https://github.com/massivethreads/massivethreads
+Description: DAG recorder of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides DAG recorder, which is a tool to analyze execution
+ of task parallel programs.
+
+Package: massivethreads-dr
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: devel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 133
+Depends: libc6 (>= 2.14), libsqlite3-0 (>= 3.5.9)
+Filename: pool/m/massivethreads/massivethreads-dr_1.00-2+1~buster1_amd64.deb
+Size: 42032
+MD5sum: 34c8e3ec3904792fc6c9d7a437284883
+SHA1: 0ea814550905b482ab3843340e3af52c9160a79e
+SHA256: 64dbe42cb000a5aa796ed9bd89f3181d142d3708b08a886da076d9236159b576
+SHA512: 594aa135a92be858573c33d3e87f2b1aef21f2ea18270f76bd1f2c80b705f4a875951acc23fd909c565d17e816517081229045ddb26ecd042652f175ddf682e4
+Homepage: https://github.com/massivethreads/massivethreads
+Description: DAG recorder of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides DAG recorder, which is a tool to analyze execution
+ of task parallel programs.
+
+Package: massivethreads-ld-dev
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 409
+Depends: massivethreads-ld (= 1.00-1+1~buster1)
+Filename: pool/m/massivethreads/massivethreads-ld-dev_1.00-1+1~buster1_amd64.deb
+Size: 59364
+MD5sum: 979c251f4bf8c13e4bf5d0e7467b9698
+SHA1: 33b6597200f9ad7da00c64657929502bbcc31ea0
+SHA256: d94cb3d363ef779f79be8ed87ac81aa24358f5c12df63cd68f595186db7a3256
+SHA512: 891ed3fe48a4b7687f396341511d04d89173736e338468ddf81c4a41ff0bee2e3e8e825cc757708bb59f3b083a74ad663fed5e20d684092c95ede7429e6c2ab5
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides development files related to libmyth-ld.
+
+Package: massivethreads-ld-dev
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 409
+Depends: massivethreads-ld (= 1.00-2+1~buster1)
+Filename: pool/m/massivethreads/massivethreads-ld-dev_1.00-2+1~buster1_amd64.deb
+Size: 59408
+MD5sum: b174caa7a794218193275d4e639db4c7
+SHA1: 3bb2d82d7baedf4a240dabf21fbe948f05832ad9
+SHA256: 1326439ba0f9c0d599f8dcaa48f2e9c86e4319d356c118a7f9f91d8d44753c3d
+SHA512: 433df5c8d2d405667f1a1371f93e578b63122601d51f11aa5a52c294fa34621bee16a241aebdb4eefa96d4e88f3ec70f164b4d22b7b2c0fca6eecb4f027e393a
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Development files of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides development files related to libmyth-ld.
+
+Package: massivethreads-ld
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: libs
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 247
+Depends: libc6 (>= 2.18)
+Filename: pool/m/massivethreads/massivethreads-ld_1.00-1+1~buster1_amd64.deb
+Size: 55364
+MD5sum: 3aa2eddcb4d6d4028f0df401f90f7e18
+SHA1: 3560eeea902fffe36e47d0f64e837ad1c1cbde64
+SHA256: e8cafcdfa6b9e401ae4fdfb61b9336828b357239003a28d9a336393f17b55df4
+SHA512: 70c36361eaaed8d4417499ac4d90ed7270a1f8c57171aad578caa03ec5575f84e82c2b03d086d94b915c0ac77cb5545bd477464ac40bc86f5d0707c7082953ad
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Static Pthread wrapper of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides libmyth-ld, the static Pthread wrapper.
+
+Package: massivethreads-ld
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: libs
+Source: massivethreads
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 247
+Depends: libc6 (>= 2.18)
+Filename: pool/m/massivethreads/massivethreads-ld_1.00-2+1~buster1_amd64.deb
+Size: 55364
+MD5sum: a7c26e3f8799ade51bccca2f1b828981
+SHA1: 7998b92d16ee95d292a73e4fc48f6e6993725e6d
+SHA256: a0389e81d69b7b6b4aafb9e41ded27a77bbfcc546d990f8f824cd012787ee2a7
+SHA512: 9b93a6eb90f8b07b3609d0c912d4d531a54d42c543e82c36ba0a4cb19b702d36a75e57be779ea0dfcffd67be0d7a17b4ed66e1ff815d75baf4311d05f0aaced4
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Static Pthread wrapper of the MassiveThreads library
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+ This package provides libmyth-ld, the static Pthread wrapper.
+
+Package: massivethreads
+Architecture: amd64
+Version: 1.00-1+1~buster1
+Priority: optional
+Section: libs
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 174
+Depends: libc6 (>= 2.18)
+Filename: pool/m/massivethreads/massivethreads_1.00-1+1~buster1_amd64.deb
+Size: 39904
+MD5sum: a424bbb155ef2d37622ee7728637fe24
+SHA1: 95801b5b05abbcb57450ce31f8ac9df5cc23b9e9
+SHA256: 8a2a4f30c5ceaf096ab9b1e5be077629122ebaeb89f5a63a74d4f8f660b856c9
+SHA512: 867079d55e3478da7b12598c18cfd751dfbb481b633551d649f7f3941403ce1945ba7224e4aae66cab598cee865dc6770b422af4078f77006d4a867bb749c921
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight thread library for high productivity languages
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+
+Package: massivethreads
+Architecture: amd64
+Version: 1.00-2+1~buster1
+Priority: optional
+Section: libs
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 174
+Depends: libc6 (>= 2.18)
+Filename: pool/m/massivethreads/massivethreads_1.00-2+1~buster1_amd64.deb
+Size: 39936
+MD5sum: 037574a81b02a1af714f6a9aefcf3ec8
+SHA1: e163dfdf912f7aec75511953da04b9161c85ea91
+SHA256: 08f2e509e53deb47c4fbf309519825cd75a874ec0b091a537089789202dc3794
+SHA512: 52b3dcf2ca409555826313410d46e2927b969e441524732e941304b7b07bbb859e260a4abf13a097930394950c6644ddf999577e267d5af01bd4a81fbd3c82d6
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight thread library for high productivity languages
+ MassiveThreads is a user-level thread library that can create
+ a massive number of threads significantly faster than native
+ operating system threads.
+
+Package: smlformat
+Architecture: amd64
+Version: 3.5.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 3555
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlformat_3.5.0-1+1~buster1_amd64.deb
+Size: 615004
+MD5sum: cfa2b94a0c803c1560cb9d8611baa237
+SHA1: 99c5dd1902d346999f46d144521d6a95495cf73a
+SHA256: e1811485503e7ebe126d2f70d65b0a468d71fee371e39ab0776a751d547b9650
+SHA512: 49955dfa022efb426afd2749e430921b5775b1af8d91c3470d0ce1f6bb504a62246c19cdf42d6535a85fff30ccd4bc8f1de5c0a57aa4dc66ec55df6ec835e74d
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Pretty printer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlformat
+Architecture: amd64
+Version: 3.6.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 3540
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlformat_3.6.0-1+1~buster1_amd64.deb
+Size: 609124
+MD5sum: 73b223c5869ab71f95512d53b198fa35
+SHA1: b92ec9747aef7e245faf570a64b9586e12467df3
+SHA256: 808167194d0b9b999c33fec19bf114fe9b9dc01a090053a10547326a0477df8b
+SHA512: 64412998a1e003f896ab18e0818a9f1b16a646efe115f56a6fa5cdaf7366e9a2c8ee83d3fe1e4b15f12a0d852fdd6d9e1e7f5ac7c3cb8226ff4732da3ee4857b
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Pretty printer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlformat
+Architecture: amd64
+Version: 3.7.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 3809
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlformat_3.7.0-1+1~buster1_amd64.deb
+Size: 641884
+MD5sum: 2d96ae3d75b462ee23a82cadd0477c96
+SHA1: 6300f166ff69ccb2c1a5b0173d386da88525827d
+SHA256: 2e1e299451d7b66b5db483443ccc6a1ef3569209fd4e9fbee7b96b9c780ea188
+SHA512: 6fa19ba0ea8c19048dab76dade421a98ed72ac8fec8d3eeec22c87e24eb3babd8443475de7d856f6bdc3f6a83cf13819b1a79054248002b7e53218081e2a1c4a
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Pretty printer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlformat
+Architecture: amd64
+Version: 3.7.1-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 3913
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlformat_3.7.1-1+1~buster1_amd64.deb
+Size: 651668
+MD5sum: 3dcd32503b9474adae934139dc97e5fa
+SHA1: 757ced5a5075820195a86f059b0b280b5431a41a
+SHA256: fb8cd2615ecf3eb032fb0618709a30e7ecd1325bf2dc0b76bd2ea4e82a7f9a23
+SHA512: fcec22b980b2fc39699a69d61ac425657c55bac054064e5e560e34f642fba77fab8a02f8fd6b4f95a8642263eacd6cf7fb1d955695db260f8808808c5f283d63
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Pretty printer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smllex
+Architecture: amd64
+Version: 3.5.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1124
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smllex_3.5.0-1+1~buster1_amd64.deb
+Size: 245228
+MD5sum: 0088ce12fa2f55518dae32a1fd105e49
+SHA1: c734d9f56c129ae0c2af484fdc4471ace94ca70e
+SHA256: 0faa34c95d330279c951a1a4ef790a80978664499caa1614cb6355050099eb53
+SHA512: e5bed4f87ee1574adb94bd04135ee4bd046e4fc0a62c66a6792e6c60a2ce71181d26f1e47f9fd229211eed97bd83791c82acd82a8d8b2d2ff598a922e0a59e6c
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Lexical analyzer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smllex
+Architecture: amd64
+Version: 3.6.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1105
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smllex_3.6.0-1+1~buster1_amd64.deb
+Size: 245420
+MD5sum: c678a5776312032421b7247bd6057f36
+SHA1: 6336d64c673c4af9ce9a058a8a38d59e6f5ad067
+SHA256: 1d52671daa9b723b7dcd5d5d150d2cccda2d74afddcda3b40f08a969c28fa2ac
+SHA512: 96f689899073bc42119684adf97bbb655f9b649b029fb28108eff0a8fb75876746c871686e9e4ecc09dd59c0ef1bc8f968d3a53993efa295d9ff086a408b117c
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Lexical analyzer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smllex
+Architecture: amd64
+Version: 3.7.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1110
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smllex_3.7.0-1+1~buster1_amd64.deb
+Size: 247272
+MD5sum: 524a08e67e84d98cc2c983c6e23a2f99
+SHA1: 33ca4ad0b6aebfa3b4f4ce46a955342e0d11199f
+SHA256: e78a31e154974327abdfb43b63509404f1ba0b04d5187aaa669fb5358f2820bb
+SHA512: 87a9e115906e710a1a2919bb4cfeacb793359fa344fbc6f6510972683c076f1e31ed03c4616ff7ca765fbb393bb3e884216bcbf94c0f5374da917e430bf49246
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Lexical analyzer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smllex
+Architecture: amd64
+Version: 3.7.1-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1146
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smllex_3.7.1-1+1~buster1_amd64.deb
+Size: 251272
+MD5sum: 3df0f39579a7498f826aeaaa04bb4e7e
+SHA1: 73a0dd1949c352d548db41858a66074a352583bf
+SHA256: 043136eba3dd535d7b62d3f82dc281605f81117cca14a9a69e77b961db19d79e
+SHA512: 6d4566aa5f7678a4439ecdfab630c939905c34c1d4a236ed96c0984e1f8a52b6818299033ed918073a861548ccd5daa92e915d719b429f5d53e0729e690770a4
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Lexical analyzer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.5.0-1+1~buster1
+Priority: optional
+Section: devel
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 41750
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libgmp10, libstdc++6 (>= 5.2), libyajl2 (>= 2.0.4), massivethreads (>= 1.00), gcc, llvm-7, libc-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Recommends: g++, smllex, smlyacc, smlformat
+Filename: pool/s/smlsharp/smlsharp_3.5.0-1+1~buster1_amd64.deb
+Size: 5295292
+MD5sum: 30dada8b9971cf910657eab8650e2b5d
+SHA1: 0293f36d35537be30edb3cc8cb4a521a8f6a270a
+SHA256: 16cb307985d721686fdd9d71394901268ecf68ad5a4b2bf8c86a20728f1d76ef
+SHA512: 2d57a7ff4fb5e6f23896ce2a3fa6e1a120951fc99ce07744201b6109f0beb69dd52836776a2d5bb6b286e1548892407ee68845ba09b50ae9865f1a488f5b972c
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.6.0-1+1~buster1
+Priority: optional
+Section: devel
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 40655
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libgmp10, libstdc++6 (>= 5.2), libyajl2 (>= 2.0.4), massivethreads (>= 1.00), gcc, llvm-7, libc-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Recommends: g++, smllex, smlyacc, smlformat
+Filename: pool/s/smlsharp/smlsharp_3.6.0-1+1~buster1_amd64.deb
+Size: 5181148
+MD5sum: b1751a1f8ac3a8c8200abcc83bb1c29c
+SHA1: 87f6582fbc4de122adc5be7b843c7887ec159c65
+SHA256: 7d1f10c4a0eaedca58898c6cf7870f01f4928f41bda792f961bcf8273481e09e
+SHA512: b276bec008de0cd33819f1c9452e75e26a3f9deac4942edfaefa68957c43f44dd4e0497568016af0bf0a5b5d3906ae126c9e34765e92d1e5a6fb2932e4f6a1a3
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.7.0-1+1~buster1
+Priority: optional
+Section: devel
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 44999
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libgmp10, libstdc++6 (>= 5.2), massivethreads (>= 1.00), gcc, llvm-7, libc-dev, libgmp-dev, massivethreads-dev
+Recommends: g++, smllex, smlyacc, smlformat
+Filename: pool/s/smlsharp/smlsharp_3.7.0-1+1~buster1_amd64.deb
+Size: 5805604
+MD5sum: 8da1e84a1ccc107ac5604d1f30f203d6
+SHA1: 0c573b128e1d079f47f5960e09a5a952b31098e6
+SHA256: 5aceec146b244cbe6f11cd6eeefafd8a10c117952cf216b43fc506350c2e37bb
+SHA512: 02040135241061eceb4405c2cd92438f14d6698e68d56c09f1f5a3a06744513a7964538785fa44f98f86143ee1bc81d170abd97840fc2dd92a066728374fc935
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 3.7.1-1+1~buster1
+Priority: optional
+Section: devel
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 46661
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libgmp10, libstdc++6 (>= 5.2), massivethreads (>= 1.00), gcc, llvm-7, libc-dev, libgmp-dev, massivethreads-dev
+Recommends: g++, smllex, smlyacc, smlformat
+Filename: pool/s/smlsharp/smlsharp_3.7.1-1+1~buster1_amd64.deb
+Size: 5946972
+MD5sum: 739f0a476360e52b1f93c58058737c35
+SHA1: 3195d003a475f00a15be312ddaabffc97d486e52
+SHA256: c7c7428ee43367f954a29c692e87d831902a99ab4d2260c20c385e50d9bd007b
+SHA512: e331b94df0dd523361e1984e0e592cdc7193a6d17ccc37eca8a45f0b78e56d9ad7c3997e0f43ecb4d8566be0a034e6a6365acb627559157f3f32cad3546cad0f
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlyacc
+Architecture: amd64
+Version: 3.5.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1741
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlyacc_3.5.0-1+1~buster1_amd64.deb
+Size: 356232
+MD5sum: b973add81148ddd239d841e5022defd7
+SHA1: 881f886adcd440d22c1335dc97037fb50620a292
+SHA256: 2996679f785e9f76e0f31961540d03b229dda69f4226fda8c7d5f1ef94c10c4b
+SHA512: 99a99895ecb474b3b7e9bb213a49403631e430776cb80dfe41b50c545dbf26ae1dc44a3116d5caf2d96e1d1ead72a31bdb4a3cfa2b7c63ef4f444010c8ced1de
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Parser generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlyacc
+Architecture: amd64
+Version: 3.6.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1740
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, libyajl2 (>= 2.0.4), massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlyacc_3.6.0-1+1~buster1_amd64.deb
+Size: 355040
+MD5sum: 6228b75f1eab8386321bddfabaa572e7
+SHA1: cf8957e050ec895e14fc1d2e4c4083ab75118b35
+SHA256: 6bd17d2f708254c9c277ded9013020c38d5222fb1637deee7616ed44eb0ac8c5
+SHA512: 5de2d2c8b784cacce8b6aa311c46d424b7873f523f4b7a938896aa274aee16495a00672258020b326fba69d0a458d55041de7a65754e798487d02a155715ebe5
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Parser generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlyacc
+Architecture: amd64
+Version: 3.7.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1745
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlyacc_3.7.0-1+1~buster1_amd64.deb
+Size: 357872
+MD5sum: 543a3eedce05b06c82f696c76115658b
+SHA1: a00f42e30d7d7af3a9a88304677775cd1476898a
+SHA256: 7677139a5b5d883f55448e252e4f0ca02f24dd7a2c140d63988a50ac4df423c5
+SHA512: 12e897fa32f8db0aa9a82e070100773a865a99c15f6a455feac410e01f0d7cca83dfa5959f33a58d95a845c5113b0ac950504f561227dcfaf104439f1ddcf0ee
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Parser generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlyacc
+Architecture: amd64
+Version: 3.7.1-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1849
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlyacc_3.7.1-1+1~buster1_amd64.deb
+Size: 368396
+MD5sum: 5776a464cdb5ec480f7cd7540d23655e
+SHA1: 1e5ba761f9a00050956c57a54a2a3c567c684d1b
+SHA256: 3376a49204be315345c3aa1cbf86822d8e97e2153696f4441832b9a73c108ad9
+SHA512: 7dcf6c918eb69bee127a0fcc09b593aedd00a7af43edffa0723d810c916033291036f28076c264fc6f7354c48340477c73bcaf62cda22a956940a42645f9fc3a
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Parser generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
