@@ -53,3 +53,7 @@ SML#'s public key. Its fingerprint is the following:
 ```
 DD99 2B50 C9A3 B075 DA04 613A D299 F71F C5C1 D12E
 ```
+
+For Ubuntu, we have a [PPA].
+
+[PPA]: https://launchpad.net/~smlsharp/+archive/ubuntu/ppa
