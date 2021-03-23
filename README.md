@@ -56,4 +56,7 @@ DD99 2B50 C9A3 B075 DA04 613A D299 F71F C5C1 D12E
 
 For Ubuntu, we have a [PPA].
 
+For macOS, see [homebrew-smlsharp].
+
 [PPA]: https://launchpad.net/~smlsharp/+archive/ubuntu/ppa
+[homebrew-smlsharp]: https://github.com/smlsharp/homebrew-smlsharp
