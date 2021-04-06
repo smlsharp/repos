@@ -198,3 +198,35 @@ Checksums-Sha512:
  68390195cf300433f863a1f83afc6fe0768de3aa41552df42a8f95ba4282a1aab76cb121d0ce38c9e9b96f93293b0df4f9a930a7b1f19d222dd14db59a907db2 7390919 smlsharp_3.7.1.orig.tar.gz
  87c7ed5c240a946507cdab28b440895497640c7ba7b1b5e63b68fdfc18eee80394f4748f7883b6f48d037288a3fcba64ff55dc84b1d206117c00673730038bf9 3192 smlsharp_3.7.1-1.debian.tar.xz
 
+Package: smlsharp
+Architecture: amd64
+Version: 4.0.0-1
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
+Standards-Version: 4.5.1
+Build-Depends: debhelper (>= 13), xz-utils, llvm-11-dev, libgmp-dev, massivethreads-dev
+Directory: pool/s/smlsharp
+Package-List:
+ smlformat deb devel optional arch=amd64
+ smllex deb devel optional arch=amd64
+ smlsharp deb devel optional arch=amd64
+ smlyacc deb devel optional arch=amd64
+Files:
+ e8192129ba00f95071c94bb4afdd133e 1933 smlsharp_4.0.0-1.dsc
+ 86eedb8aea4a807d4fccd7f49c0672c3 7397808 smlsharp_4.0.0.orig.tar.gz
+ 00f39f4a4377d4e23617f6e09b33883e 3200 smlsharp_4.0.0-1.debian.tar.xz
+Checksums-Sha1:
+ 4983db93a178bd0ba1066f21e615aa9ccad2b90e 1933 smlsharp_4.0.0-1.dsc
+ 261203d5143d2c2be13f5bb8e7ab7c9048da8e48 7397808 smlsharp_4.0.0.orig.tar.gz
+ 2e601088d5c1a824b6ce6bbf349499052ceb884b 3200 smlsharp_4.0.0-1.debian.tar.xz
+Checksums-Sha256:
+ af7ad29dee11dcb6f2da622dd9552e3095c00c74befcfebb75936f24a52dfd89 1933 smlsharp_4.0.0-1.dsc
+ 0b44fb1f369f7cfced197c68f0d3102e940dbe5288adc3bdf618a5a3ec3165db 7397808 smlsharp_4.0.0.orig.tar.gz
+ f774b9ddaa7376bd80a4d0d8bdebdd5888f8af2cc23b4f8b8ba44f440aac0fea 3200 smlsharp_4.0.0-1.debian.tar.xz
+Checksums-Sha512:
+ 650fdf8e3d999ea95a325792d6a4576e49f152ec9c16c2252976bc3dbd1c66d132c32d2e602ea9134281029fa57f02ef676e4ecec646c5b781f572c9abcb68b3 1933 smlsharp_4.0.0-1.dsc
+ d3c37c2c1ae4cdf75e96f7a50ae37d74b689e66f1c4db2ad9ba11ec9f5d71af37ff91a3d8d93012ba155d8674bb3c62aeec1bb4437ca8b66fbcbd958ecdf9c4d 7397808 smlsharp_4.0.0.orig.tar.gz
+ 2ad16890142f4cbafc80b3caf58aff44f532dce315095499d9621fba3bcba62d40a4b6d7e6e5d6142d344c6f584f3f6bcc71dc0b0546ddb087171bee15681d4d 3200 smlsharp_4.0.0-1.debian.tar.xz
+

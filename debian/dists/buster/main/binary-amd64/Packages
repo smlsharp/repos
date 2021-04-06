@@ -440,6 +440,28 @@ Description: Pretty printer generator for SML#
  interoperability with C, integration with SQL, native
  multithread support, and separate compilation.
 
+Package: smlformat
+Architecture: amd64
+Version: 4.0.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 3913
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlformat_4.0.0-1+1~buster1_amd64.deb
+Size: 652020
+MD5sum: 4443b8a86ccc396144ae2c40e25828a7
+SHA1: 49a468e6e54eee63b62050d30dd76293889d8fbb
+SHA256: 1b0f866c1448d1f06061d6310136dcabf164b907e1a4878a1a5a7348201a03a5
+SHA512: 800ab8ed913faebc5f49d6f8567c1cd8b0406eb4f7168c1701591115647bd0d6c1fecd93a61f8c717b9f913483c608e916f6d84b0520aaab6da674bd06041216
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Pretty printer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
 Package: smllex
 Architecture: amd64
 Version: 3.5.0-1+1~buster1
@@ -521,6 +543,28 @@ MD5sum: 3df0f39579a7498f826aeaaa04bb4e7e
 SHA1: 73a0dd1949c352d548db41858a66074a352583bf
 SHA256: 043136eba3dd535d7b62d3f82dc281605f81117cca14a9a69e77b961db19d79e
 SHA512: 6d4566aa5f7678a4439ecdfab630c939905c34c1d4a236ed96c0984e1f8a52b6818299033ed918073a861548ccd5daa92e915d719b429f5d53e0729e690770a4
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Lexical analyzer generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smllex
+Architecture: amd64
+Version: 4.0.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1146
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smllex_4.0.0-1+1~buster1_amd64.deb
+Size: 251728
+MD5sum: 34321a62b90bf0e5ea851f05f56bda54
+SHA1: 431d8b5a6ee1729cde0ccd2030db70a76d01bac7
+SHA256: 981cf10527e67cae4f473bfe137bb6c68bd460fbe851bd45206e0afc358938d1
+SHA512: bdf679e03a06343ad7f4dfbc9ec4bbdf21fc7da4447ca5a0bbfec63e07b5ea66085c47f441dcd9a675f6d4a0c74d3b7725d3dd3fd4b39731e640f241b3b5f145
 Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Description: Lexical analyzer generator for SML#
  SML# is a variant of Standard ML programming language
@@ -616,6 +660,28 @@ Description: Standard ML compiler with practical extensions
  interoperability with C, integration with SQL, native
  multithread support, and separate compilation.
 
+Package: smlsharp
+Architecture: amd64
+Version: 4.0.0-1+1~buster1
+Priority: optional
+Section: devel
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 46661
+Depends: libc6 (>= 2.27), libgcc1 (>= 1:3.0), libgmp10, libstdc++6 (>= 5.2), massivethreads (>= 1.00), gcc, llvm-7, libc-dev, libgmp-dev, massivethreads-dev
+Recommends: g++, smllex, smlyacc, smlformat
+Filename: pool/s/smlsharp/smlsharp_4.0.0-1+1~buster1_amd64.deb
+Size: 5950964
+MD5sum: 69c2bc2e8237df088604566a7063579d
+SHA1: 767f4079ca4b0ed73f8cff61ee71c109ac707897
+SHA256: 23eae876d0983a6d0089f1336fd71e2ef8ac2170e4e8d0062bf020b28396592b
+SHA512: f35cdd2a3c5be99cdf889fb695d3e8d66c98175df53d57a0c90db7f0b68b99a23c5ac817025f464904cc6c54067df438495e826c440b4056d801904f46bab848
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
 Package: smlyacc
 Architecture: amd64
 Version: 3.5.0-1+1~buster1
@@ -697,6 +763,28 @@ MD5sum: 5776a464cdb5ec480f7cd7540d23655e
 SHA1: 1e5ba761f9a00050956c57a54a2a3c567c684d1b
 SHA256: 3376a49204be315345c3aa1cbf86822d8e97e2153696f4441832b9a73c108ad9
 SHA512: 7dcf6c918eb69bee127a0fcc09b593aedd00a7af43edffa0723d810c916033291036f28076c264fc6f7354c48340477c73bcaf62cda22a956940a42645f9fc3a
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
+Description: Parser generator for SML#
+ SML# is a variant of Standard ML programming language
+ equipped with practical features including seamless
+ interoperability with C, integration with SQL, native
+ multithread support, and separate compilation.
+
+Package: smlyacc
+Architecture: amd64
+Version: 4.0.0-1+1~buster1
+Priority: optional
+Section: devel
+Source: smlsharp
+Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
+Installed-Size: 1849
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10, massivethreads (>= 1.00)
+Filename: pool/s/smlsharp/smlyacc_4.0.0-1+1~buster1_amd64.deb
+Size: 368692
+MD5sum: d492e13ebdce2c92a423e44d1261eda7
+SHA1: bcf2495311814b7872d38b4f40f95c0bc37b9de5
+SHA256: 72712e236e4b83542d4d2ada3c1a9309f0ca619b052afbb2d34b577621a281c3
+SHA512: 082b4c0295bcde1fcb939e71ba5c4b9b8bebde20d9cd57c15c0bad3ce37773e334f7c3e2f99dd38ed4f66b23940a3c2cc63d0178235626338eab7a58c6bc39db
 Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Description: Parser generator for SML#
  SML# is a variant of Standard ML programming language
