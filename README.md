@@ -9,42 +9,42 @@ To install the SML# compiler, run the following commands.
 
 Debian sid:
 ```
-wget -P /usr/share/keyrings https://github.com/smlsharp/repos/raw/main/debian/dists/sid/smlsharp-archive-keyring.gpg
-wget -P /etc/apt/sources.list.d https://github.com/smlsharp/repos/raw/main/debian/dists/sid/smlsharp.list
+wget -P /usr/share/keyrings https://smlsharp.github.io/repos/debian/dists/sid/smlsharp-archive-keyring.gpg
+wget -P /etc/apt/sources.list.d https://smlsharp.github.io/repos/debian/dists/sid/smlsharp.list
 apt update
 apt install smlsharp
 ```
 
 Debian 10 (buster):
 ```
-wget -P /usr/share/keyrings https://github.com/smlsharp/repos/raw/main/debian/dists/buster/smlsharp-archive-keyring.gpg
-wget -P /etc/apt/sources.list.d https://github.com/smlsharp/repos/raw/main/debian/dists/buster/smlsharp.list
+wget -P /usr/share/keyrings https://smlsharp.github.io/repos/debian/dists/buster/smlsharp-archive-keyring.gpg
+wget -P /etc/apt/sources.list.d https://smlsharp.github.io/repos/debian/dists/buster/smlsharp.list
 apt update
 apt install smlsharp
 ```
 
 Fedora Rawhide:
 ```
-rpm -i https://github.com/smlsharp/repos/raw/main/fedora/smlsharp-release-rawhide-31-1.noarch.rpm
+rpm -i https://smlsharp.github.io/repos/fedora/smlsharp-release-rawhide-31-1.noarch.rpm
 dnf install smlsharp smlsharp-smlformat smlsharp-smllex smlsharp-smlyacc
 ```
 
 Fedora:
 ```
-rpm -i https://github.com/smlsharp/repos/raw/main/fedora/smlsharp-release-fedora-31-1.noarch.rpm
+rpm -i https://smlsharp.github.io/repos/fedora/smlsharp-release-fedora-31-1.noarch.rpm
 dnf install smlsharp smlsharp-smlformat smlsharp-smllex smlsharp-smlyacc
 ```
 
 CentOS 8:
 ```
-rpm -i https://github.com/smlsharp/repos/raw/main/centos/smlsharp-release-centos-8-1.noarch.rpm 
+rpm -i https://smlsharp.github.io/repos/centos/smlsharp-release-centos-8-1.noarch.rpm
 dnf install smlsharp smlsharp-smlformat smlsharp-smllex smlsharp-smlyacc
 ```
 
 CentOS 7:
 ```
 yum install epel-release
-rpm -i https://github.com/smlsharp/repos/raw/main/centos/smlsharp-release-centos-7-1.noarch.rpm
+rpm -i https://smlsharp.github.io/repos/centos/smlsharp-release-centos-7-1.noarch.rpm
 yum install smlsharp smlsharp-smlformat smlsharp-smllex smlsharp-smlyacc
 ```
 
