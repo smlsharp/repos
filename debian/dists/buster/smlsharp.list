@@ -1,2 +1,2 @@
-deb [signed-by=/usr/share/keyrings/smlsharp-archive-keyring.gpg] https://github.com/smlsharp/repos/raw/main/debian buster main
-deb-src [signed-by=/usr/share/keyrings/smlsharp-archive-keyring.gpg] https://github.com/smlsharp/repos/raw/main/debian buster main
+deb [signed-by=/usr/share/keyrings/smlsharp-archive-keyring.gpg] https://smlsharp.github.io/repos/debian buster main
+deb-src [signed-by=/usr/share/keyrings/smlsharp-archive-keyring.gpg] https://smlsharp.github.io/repos/debian buster main
