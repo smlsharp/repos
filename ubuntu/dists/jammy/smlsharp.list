@@ -1,0 +1,1 @@
+deb-src [signed-by=/etc/apt/keyrings/smlsharp-archive-keyring.gpg] https://smlsharp.github.io/repos/ubuntu jammy main
