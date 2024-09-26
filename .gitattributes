@@ -1,1 +1,6 @@
-*/** binary
+*.bz2 binary
+*.deb binary
+*.gpg binary
+*.gz binary
+*.rpm binary
+*.xz binary
