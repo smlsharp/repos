@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 10:56:16 +0900
+Source: smlsharp
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 4.1.0-0v1ppa1~ubuntu24.04.1
+Distribution: noble
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ smlsharp (4.1.0-0v1ppa1~ubuntu24.04.1) noble; urgency=low
+ .
+   * Build for noble.
+Checksums-Sha1:
+ ea6f2c03df731ea2ab5d561ff4f2a5f581cc4fa8 1958 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ 356b474105b5a8b9703199997be2dc35b2048764 6284 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 4381336c9611815693f3eea4f7db0068ab1c5278 8956 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1_source.buildinfo
+Checksums-Sha256:
+ f3d4b38ea8746079b73fcc71e4f1853828a4ce0f1b4965182214d750bf7b790f 1958 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ af1b5d4e84d65f781bf26fcf0bddc0deeddb46e26dde0812f683023844c0a65b 6284 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 904913ffc473059b4104c1205c5e6292cf2da9a40fffea3a1bcc4891208b23c3 8956 smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1_source.buildinfo
+Files:
+ d1590d8b4534f33bf835e215c27c6569 1958 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 devel optional smlsharp_4.1.0.orig.tar.gz
+ 5de604b9df9bd4cf132292a80baea6ad 6284 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 1dbabe981a2ab6ccc2b9aab2e58a7e2f 8956 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu24.04.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA6EACgkQ0pn3H8XB
+0S7XMA/+O2XNJp6vnrtBQxpb3ixdMkqHClc8JYsdxnJlxPXTAFn+7vzelhFn6mTy
+xNhmdsWZvA8tXq2WHkRdqYP0vlS4UqtnJhOpcizLMBCLJyaKgbYbs5Sw31u0WHGw
+FrfdzcJQeOFhgCfOYPEP8kxhcS0RvgOW+zeXHJavRqxeXYgfzdVi6MvsyHOr55NV
+MVGwGNypBN1H3332ZgxM5CZt+F3DrIGQEl9fY3kaasGBxsyLAziBdbKVJ/lByKeh
+53JAECaHBYG0cMIXvYc615uhNWm5NM9M08IKTx+av6jH89BGxECR6JAlUJhEQQDm
+2oWbeUNioVq5GZIBrFcaZPD5WVaRutvCDD49ZWXqSsyYSBtS6i9vHnnGQFiBTyo6
+kou8c83eutgKklur4XOeFRl84OsAStKvkOaBjT9UCukcrhJ3O+Z4B8nVE92kd7cQ
+NSHXgT367FLzTjSrz5AvKrptSyTA/9mG8j73LaxAT7OlQT0HMNoIZNnHIZanbSCY
+BTZxux8f1udWEEc/rmhdAqWt3uNYKax2ZyOPnxspberVmRSQWUO/VLpcUEuST6Oh
+rR/tlNfx3+DlnO6mycja9bIEOoNwarxj0XadNJjstwlE0KvrSBJYfw3rbEqWFBRj
+64uNvTgIXa+3tOEL9dwwg8CSl0mP3dX5Hm5Lbijgs/5EDLzcPQ8=
+=d5ob
+-----END PGP SIGNATURE-----

@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 11:16:10 +0900
+Source: massivethreads
+Architecture: source
+Version: 1.02-0v1ppa1~ubuntu20.04.1
+Distribution: focal
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ massivethreads (1.02-0v1ppa1~ubuntu20.04.1) focal; urgency=low
+ .
+   * Build for focal.
+Checksums-Sha1:
+ ffec44ffe2b7a76076cb20adad2972164ea46376 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ a9029bf5f54dbd71ab03303664a1d8d05e07f85d 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ b00dd6a2fa2819963f223bb15de7980f464818f8 6148 massivethreads_1.02-0v1ppa1~ubuntu20.04.1_source.buildinfo
+Checksums-Sha256:
+ 207b87f392e335ad2d820e1012b359e823f79e61bc0b1da3c21dc65ff520719a 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ c5d9f3d8b7ee0143e3401cd790cd1b4eb4bfa30da9b65ec0b67bffc06e539fa1 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ 26d9159082c79d239dd8705599bcd6d6567aa59511df4902c203d7c54bec5d09 6148 massivethreads_1.02-0v1ppa1~ubuntu20.04.1_source.buildinfo
+Files:
+ 76c98b4c6d33c1a72913523c8706cafa 2136 devel optional massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 devel optional massivethreads_1.02.orig.tar.gz
+ fc21ffb957b6526cfc659444fe7d009d 19484 devel optional massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ 8a9a40f482bdef9f2e717e352ca1bdc4 6148 devel optional massivethreads_1.02-0v1ppa1~ubuntu20.04.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA6AACgkQ0pn3H8XB
+0S5r5xAAneSw1TFesgq4G/HMEJq/dYYH9Apjoz4H+9W9HHoY5W0016jMnZK9tgjz
+9wXcfxQGJKKd7gjeY/UthFdZkTN+2ypa7nvgNtFCqdZ/6MLf0+xLcPzli3cCl3AF
+Kdo2ngVi7T8w4NW6Y07K4PPlxs68FYAEV0p4PVO84fKfeHZXMoJ90iJ3poFm5inh
+YBTyGvWDHa5aJ4qu3vUTMX0hv7ALrQ3FHGyJ/R80F9vuvJ404k79hCyCGf0RHlCi
+P0nQ5NTLgjDfNKc1aCVfOY3RqPxpNB0abag6sCkOcpLMAeyguz7yP0Le2egpHTSh
+L8Kgt7x1e/XUQWXhuXTHO9UEn1sYRkkxM6S8hRM7khJYtgKy9Fzp/fNyGOr6rBdQ
+YLnYfVoZoYLIA14HawGbsVViTEzyo5YgXZEwt88L1DFURvbvy1D1Eyti0xxxDpPm
+Qw4cnNvL+lVjJ6O2K+Wsce62HjGLSGcO9OwH3rKPnDUy3GI0QdD/HRVi5CdMxEmH
+mQcvZTQxGA+uIJoRbDe3iEhS+N30Q01TYIWzg9UjEhq7tQve8hENrhMMDHDBQ15B
+pjqxYL93JNaZb5UsDEdmuOQuXJp7YbmaMIOn8P4QlKHY0P+Md02mdenvNJPyYb0j
+QJWnHHEhbhvlCmidGuKaVj7eqvqRI6r+3XWqed/ewvNDTsJfnso=
+=vouz
+-----END PGP SIGNATURE-----

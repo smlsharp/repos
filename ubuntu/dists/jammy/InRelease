@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Suite: jammy
+Architectures: any
+Components: main
+Origin: smlsharp
+Description: SML# project
+Date: Sat, 09 Nov 2024 06:39:34 +0000
+MD5Sum:
+ 9a22eddba6ed96d656aa8495498526f9             4074 main/source/Sources
+ 94b1d954af0812c4cbb07d3c0a59e0f4             1568 main/source/Sources.xz
+SHA1:
+ b4efd3e69831534445d7824960a6029ac6f42f3e             4074 main/source/Sources
+ f8fc00818399728a4e4a66a49314217a2150c03d             1568 main/source/Sources.xz
+SHA256:
+ 6352e08cb352543a41e4cf43736b8f68930447690c677ab21b2bf2d9882b3e15             4074 main/source/Sources
+ 302133670c3d1976f65406f54bd4a892da6c12e3182e969e332025f356798b63             1568 main/source/Sources.xz
+SHA512:
+ 8642e77c9c4169f3a5ad908da928b4d271ec8fedc3e2cb01e5e770ff24b369bf8399fe86fa4ed56398bb267075641ab3b41529573ce0faaf35630589ae126584             4074 main/source/Sources
+ 9199c42a9c049783127351fd530667e199bfe73df3bc7192eec22370650e16371ef772ccdcfff55a309b7ce51f190e4d31f7a68765a02ca3445d6d7de977cd5d             1568 main/source/Sources.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA6YACgkQ0pn3H8XB
+0S71GA//cBLfUWbIDP86ummd6l6v4zlVS8QP4MjzUL8VoS2BziMGIKXHtPxZgQOF
+gvMf+D8W91fkr2L382iqup17f6nnLIzcxJFO8m3tedVMHmUU7e0+vwqBE3mBte87
+bE4T+fLyqx88tAyPq6ZNUkOus2ANj15uD9Z66psw5Te7cMWAX6vhumCXLMF30D5F
+82riB2xw9kDMjAGezJe3GhNFvzF7JT/xvhsXAAnAhk4u5s7sZaZwmSWc5frf4lV0
+u6L6LVgauBUSA085vAoC+VdFt/Nmw/UcEipyzZjaju1Lh9aVCEJZ8FkH46K90IND
+FkTZ+24Edzc3rtlaDKgBhQ1JEHJua3ObdNUZ1/MTGZsBb7LePoaPB5K5SaXxcjdW
+AGLENmJcbalXzt9Gd0hRN0N0O+HgVnhYvIExXRwPQeC93D/h60IHI8KvNin7XR71
+4eQZzW6yWq8mtzTS52Qj0RVrzBVgd4czmL+Pho5L9KMV56idyTpA5pM0MhL29rA2
+T6AJdu00vUfh9BdKj5N358Q55DaTuWLh3npXYz05oVVPpuy59lAfSgNAQ6pKdqZN
+vOZxVYadMAFDS4uof1CwvBNsf3yfVrza5BIDa5keEmp/5G/PwcOs+xlDGfDYbxgP
+59fIh0JivBC0nINwFsIvKOlLSYbkgsW4pDj4/oVLhFOQvoW7WwA=
+=gati
+-----END PGP SIGNATURE-----

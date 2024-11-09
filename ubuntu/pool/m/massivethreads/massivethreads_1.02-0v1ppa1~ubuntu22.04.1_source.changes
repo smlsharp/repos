@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 11:05:16 +0900
+Source: massivethreads
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.02-0v1ppa1~ubuntu22.04.1
+Distribution: jammy
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ massivethreads (1.02-0v1ppa1~ubuntu22.04.1) jammy; urgency=low
+ .
+   * Build for jammy.
+Checksums-Sha1:
+ c2efa69613f3546e33cc5d19de5629bdbad880c6 2136 massivethreads_1.02-0v1ppa1~ubuntu22.04.1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ 5278e1d89f704dd386ae613001e5d73823a48ac5 19464 massivethreads_1.02-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+ 343d4cd22c95df728c61a09964ca540f653b64b1 6639 massivethreads_1.02-0v1ppa1~ubuntu22.04.1_source.buildinfo
+Checksums-Sha256:
+ 3ea87bb5b5a907bb52cb57e987326b5f5e653e1f0d8400a10b4a29ae8486a7c8 2136 massivethreads_1.02-0v1ppa1~ubuntu22.04.1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ b2e1ae66cdaa22a2e586600fd2dc725da9d83b846e7bf9171d12f6d56244a0a0 19464 massivethreads_1.02-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+ 41897779c95e2ecaaa7feb23e58f9318a8eea554cf9d0d59642e435741f8340e 6639 massivethreads_1.02-0v1ppa1~ubuntu22.04.1_source.buildinfo
+Files:
+ 4403b9b64e5282b5dd07dca7c2f746a6 2136 devel optional massivethreads_1.02-0v1ppa1~ubuntu22.04.1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 devel optional massivethreads_1.02.orig.tar.gz
+ 3b10eee5d7ed0313b58c65b5ae9851e1 19464 devel optional massivethreads_1.02-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+ f1eadfb40d86ea46291450337005cca3 6639 devel optional massivethreads_1.02-0v1ppa1~ubuntu22.04.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA58ACgkQ0pn3H8XB
+0S5JJBAAxFyJGJIID8uCuAk3gOCH3oUW69Q2eGik9vOIrnvHjtTMqbMAGt+Y/LUc
+IJdSM1KLM+EkCzHZgJj6WmCLCtYA1DByEXvrovJMPz2okFV1iRvWiK+yPhevBq5f
+txWF+H3Jl8Q1Y+nDvlI61kcVVF60odZCE1MofR54zyNVSRpSF1S4BxVERkDKrqx5
+gs4CLuSePySdk7cj2ri/olzJA6vqU+lh7bQlYwjTotwwekdVur95bye4+CEKtlJ9
+YUPbwjofZsT20PIiYVtW99C7pGVof3UV8DkFcap+RUWjnUz45ndK+6z+f8iR7TYw
+eI7hWLOVDkGrKOXONeBdjLi64CaZYbhmvW4AIaJcRg2/zcyymZ2/JHRwo4UxNU6x
+aYa0a7k641fejn03GBf6sOSDHf0FWrS9f9W6VFC/pOPdaBlXnB5rYacM2Br56YbN
+rXszmRdVOBMjkNzwM2G8opJM3L5vRJJNUBNWlYwXAMtoVj+wWRELMf0qxLGWlkFL
+Xn3URnA8DrLgY8VJcbEhm8JfN7usT+CvUnuc7xlI3A9in6cH8HlAaOUrjmlma7SS
+67dwTEhl8cQD6GQE9cSx7wSsgLfweG6I5cmztTnUrIX6DEjpAGQwePcJ20GC3zdc
+98eZ+l5G9GHoi0QG2iahoNcwF1smZhpSvgKaVI0x9rYxFuhUQpI=
+=LPOL
+-----END PGP SIGNATURE-----

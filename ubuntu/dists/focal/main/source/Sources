@@ -1,0 +1,63 @@
+Package: massivethreads
+Format: 3.0 (quilt)
+Binary: libmassivethreads0, libmassivethreads-dev
+Architecture: amd64 arm64 i386 sparc64
+Version: 1.02-0v1ppa1~ubuntu20.04.1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.6.0.1
+Build-Depends: debhelper-compat (= 12)
+Homepage: https://github.com/massivethreads/massivethreads
+Vcs-Browser: https://salsa.debian.org/debian/massivethreads
+Vcs-Git: https://salsa.debian.org/debian/massivethreads.git
+Directory: pool/m/massivethreads
+Package-List:
+ libmassivethreads-dev deb libdevel optional arch=amd64,arm64,i386,sparc64
+ libmassivethreads0 deb libs optional arch=amd64,arm64,i386,sparc64
+Files:
+ 76c98b4c6d33c1a72913523c8706cafa 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 massivethreads_1.02.orig.tar.gz
+ fc21ffb957b6526cfc659444fe7d009d 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha1:
+ ffec44ffe2b7a76076cb20adad2972164ea46376 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ a9029bf5f54dbd71ab03303664a1d8d05e07f85d 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha256:
+ 207b87f392e335ad2d820e1012b359e823f79e61bc0b1da3c21dc65ff520719a 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ c5d9f3d8b7ee0143e3401cd790cd1b4eb4bfa30da9b65ec0b67bffc06e539fa1 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha512:
+ c88798e463d91183e95a7d0b0b1a1c763d5fdaef8dc22478694424508af96be800ea5235921c680a2d46a99396faf821e6137b5237aaef919707c8db0c0558b2 2136 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.dsc
+ 40d6f086a870f19a1109b2a5b85331c4334d6048c4bc0746fdad81de576392b8bf8b72900b9e93dd4ef68e7c2840092b164796f82681a3a40e7c664e217f12d1 2889224 massivethreads_1.02.orig.tar.gz
+ ce6c2db0e6313e9dbdaa78103915fd830f27d1c5911ab67563da7894b0872a8bac19c54f2e55ee280f94097182da828311a7922b66a14618d26aa0df55e40d9a 19484 massivethreads_1.02-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+
+Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp
+Architecture: amd64
+Version: 4.1.0-0v1ppa1~ubuntu20.04.1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.5.1
+Build-Depends: debhelper-compat (= 12), libgmp-dev, llvm-12-dev, libmassivethreads-dev
+Homepage: https://smlsharp.github.io
+Vcs-Browser: https://salsa.debian.org/debian/smlsharp
+Vcs-Git: https://salsa.debian.org/debian/smlsharp.git
+Directory: pool/s/smlsharp
+Package-List:
+ smlsharp deb devel optional arch=amd64
+Files:
+ e17743479f5331b31ba13c04508f8629 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 smlsharp_4.1.0.orig.tar.gz
+ 5de3849a2509df9262b276d85136511b 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha1:
+ d87a89deefacc4adb15445722e47539a2fab86c2 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ 59d62e4014b1d28284c670d1d26342320180742f 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha256:
+ 505cdf9db52e6a8fe802045d1f4b565435ced4e3530c1adcc1b654ef4c3f25ba 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ 04592a11a7b2978be364d76d523eb2723a4fb204d3a114a3755e08ca5cb15bea 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+Checksums-Sha512:
+ 2378362696fd76d764cb018045102f3249f16cfae92dc5fbe59d883e369fffc835d5c3e6ec12fbb13cc252a26a01d7807a45c807c228a89451753c89c60510f0 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ 8e692f04b1b37fa516d61984b0c18cca380e24e5a461db415862f109bc8982418527c6efab69ebf7cca694b497250862e2dfd85034429b4d14e16bcab619ced7 14181338 smlsharp_4.1.0.orig.tar.gz
+ 1b3ce85f548a8346b5c0452b987ba8de8f7cc6a6585faa708a9e23952e4f2bf1cd983ff5b5821c20ee126d61bd1b3126af37fb2447e2ae4fedad3d024a9770d7 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+

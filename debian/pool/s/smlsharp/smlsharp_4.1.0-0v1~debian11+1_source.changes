@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 10:47:58 +0900
+Source: smlsharp
+Architecture: source
+Version: 4.1.0-0v1~debian11+1
+Distribution: unstable
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ smlsharp (4.1.0-0v1~debian11+1) unstable; urgency=low
+ .
+   * Build for bullseye.
+Checksums-Sha1:
+ 87516b805044fb68e751d6d3baf815207ccb9156 1930 smlsharp_4.1.0-0v1~debian11+1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ 1362680e5d0dcc69cf6903925acd98fdfda13a00 6268 smlsharp_4.1.0-0v1~debian11+1.debian.tar.xz
+ 9dcb41312da2083257c50c13df66ad8ba7c03d20 7631 smlsharp_4.1.0-0v1~debian11+1_source.buildinfo
+Checksums-Sha256:
+ 8cc02b82d85d3b63b5d3a05147ed708285f461e471cfbbe9845331e1fd2f8024 1930 smlsharp_4.1.0-0v1~debian11+1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ 76feaa943e8b71492334716467a512269e4c54e9871447f9cce92abb03d98f61 6268 smlsharp_4.1.0-0v1~debian11+1.debian.tar.xz
+ ed718c322beba31a7aad8cd484d73fd6cf59583a4369b7201a56743e9aa61170 7631 smlsharp_4.1.0-0v1~debian11+1_source.buildinfo
+Files:
+ d2c2f256977aa035eecf29464fcd1865 1930 devel optional smlsharp_4.1.0-0v1~debian11+1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 devel optional smlsharp_4.1.0.orig.tar.gz
+ 35311567eefd310031cee5c152e6fe8f 6268 devel optional smlsharp_4.1.0-0v1~debian11+1.debian.tar.xz
+ 1ab5e27f2f336a07d91efbcc344aef5b 7631 devel optional smlsharp_4.1.0-0v1~debian11+1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA54ACgkQ0pn3H8XB
+0S74fhAAoWP6CMy4NsnMjgenwIPnLM03aU2BOVAXudBZOBjr2vtI2mZ1LQbaANMD
+wDK2+3O05lUoVyB6519kOk1dT+FnqrgWzObimF03iEnGvkZQAXYsj+M7UJ4Sh/+A
+MVdvhbjhb+ujE2MIQ0RAoeH+0cvc/m07G0TRa+/KeKNSlvExySzrO5yYsUciLodK
+v3R9JBvwUW1N+aUnsCp2zWA7J7PzNRQHuA36SYIJvO64dSHAjngEVEQC0PQdWQlN
+mQV55KP4D3Yp/06ZQap3I2UXmi5mGLLeUXx7YrW7das50DYF+KAPFCOEErCUjdRc
+00gHPMaMdl1d/tRzqilWn+o2vN/jO5xDIZTyRI83wcUTDMfV0jn9uiiDK2uGrlFq
+dWFR4h2V9kkJxBNRa+y4pQf0vAyJErwSoGxQecejai0So+WExsYh7q9dGARJKl1l
+9hOz04bJukwzWpTQ608O7ECuTHrCjbFpi6n0f1a7b7FzMF1e7PeXdKiIs8x4+sq7
+3+51vhni9LpyxKqBFs/NO001WVpBdxjoP9d84XKoNwf/UzSpmC5mhavuTpbTxhOx
+lSeSNP/IVW21NJBOuvKj6UntL+DnUeTXITb7vgWZQ+V395d4P0eEk04SAZoSKH96
+xQye8J+odadZ1Hm651HMa9dcH30xo2cwdfcDxWA7wGkHllMH1/E=
+=Bw81
+-----END PGP SIGNATURE-----

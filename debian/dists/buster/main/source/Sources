@@ -1,12 +1,12 @@
 Package: massivethreads
+Format: 3.0 (quilt)
+Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
 Architecture: any all
 Version: 1.00-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: https://github.com/massivethreads/massivethreads
-Format: 3.0 (quilt)
-Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
 Standards-Version: 4.4.1
 Build-Depends: debhelper (>= 12), libsqlite3-dev
+Homepage: https://github.com/massivethreads/massivethreads
 Directory: pool/m/massivethreads
 Package-List:
  massivethreads deb libs optional arch=any
@@ -35,14 +35,14 @@ Checksums-Sha512:
  b333438c909241b0ab28216cf568b28904ca8440d729ef7c5ab1b2d9ce29747e23520bc6acbd5728b71c3387855aa3cec37fdccde07b8850f9e42eab7470b7ef 3372 massivethreads_1.00-1+1~buster1.debian.tar.xz
 
 Package: massivethreads
+Format: 3.0 (quilt)
+Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
 Architecture: any all
 Version: 1.00-2+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: https://github.com/massivethreads/massivethreads
-Format: 3.0 (quilt)
-Binary: massivethreads, massivethreads-dev, massivethreads-ld, massivethreads-ld-dev, massivethreads-dl, massivethreads-dr, massivethreads-dr-dev, massivethreads-doc
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 12), libsqlite3-dev
+Homepage: https://github.com/massivethreads/massivethreads
 Directory: pool/m/massivethreads
 Package-List:
  massivethreads deb libs optional arch=any
@@ -71,14 +71,14 @@ Checksums-Sha512:
  58e23eda5ac3d903357bb3075269031a92fee3278a4151592ac22bd8a9d2357ec0e39b842dc9a29f4969bb2d91f3080d4ffc0ce16126d7d19c227a0026250a56 3656 massivethreads_1.00-2+1~buster1.debian.tar.xz
 
 Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
 Architecture: amd64
 Version: 3.5.0-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
-Format: 3.0 (quilt)
-Binary: smlsharp, smlformat, smllex, smlyacc
 Standards-Version: 4.4.1
 Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Directory: pool/s/smlsharp
 Package-List:
  smlformat deb devel optional arch=amd64
@@ -103,14 +103,14 @@ Checksums-Sha512:
  f1479c2e0484944786f7eac2a5674de4a43512d0e5cd61b815336fa1805b3641604b4f9aab8af0f3c12d283178b854916513e4cc5564383ba9638688ec8d5262 3172 smlsharp_3.5.0-1+1~buster1.debian.tar.xz
 
 Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
 Architecture: amd64
 Version: 3.6.0-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
-Format: 3.0 (quilt)
-Binary: smlsharp, smlformat, smllex, smlyacc
 Standards-Version: 4.4.1
 Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, libyajl-dev (>= 2), massivethreads-dev
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Directory: pool/s/smlsharp
 Package-List:
  smlformat deb devel optional arch=amd64
@@ -135,14 +135,14 @@ Checksums-Sha512:
  15abd380ddf9f50eee772f37ed11377bf29a7c1e150efd295fa9c7562762fdcfd4e56b1791c43060d6c5a2d40125a2ea401801b0729f0f442783b04c2c2fbe83 3192 smlsharp_3.6.0-1+1~buster1.debian.tar.xz
 
 Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
 Architecture: amd64
 Version: 3.7.0-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
-Format: 3.0 (quilt)
-Binary: smlsharp, smlformat, smllex, smlyacc
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, massivethreads-dev
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Directory: pool/s/smlsharp
 Package-List:
  smlformat deb devel optional arch=amd64
@@ -167,14 +167,14 @@ Checksums-Sha512:
  dca440fcba6247c7013aafe418e14a7ef00a5cfa23429e7a1286b3b765eb8f1f2d7e7582af11f1a2cc15ac74434db983e203439631866f11d7b8e25d1b899cc3 3200 smlsharp_3.7.0-1+1~buster1.debian.tar.xz
 
 Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
 Architecture: amd64
 Version: 3.7.1-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
-Format: 3.0 (quilt)
-Binary: smlsharp, smlformat, smllex, smlyacc
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, massivethreads-dev
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Directory: pool/s/smlsharp
 Package-List:
  smlformat deb devel optional arch=amd64
@@ -199,14 +199,14 @@ Checksums-Sha512:
  50191e3f09092061a6fcaf87ac6eb2b8c76983b8b2bd59782ecd1f67eefbc3f24acab0ec79018617d60d195ee1c961492c7845b6ea5db9b2d0ca36b5745fa9e6 3212 smlsharp_3.7.1-1+1~buster1.debian.tar.xz
 
 Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp, smlformat, smllex, smlyacc
 Architecture: amd64
 Version: 4.0.0-1+1~buster1
 Maintainer: Katsuhiro Ueno <katsu@riec.tohoku.ac.jp>
-Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
-Format: 3.0 (quilt)
-Binary: smlsharp, smlformat, smllex, smlyacc
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 12), xz-utils, llvm-7-dev, libgmp-dev, massivethreads-dev
+Homepage: http://www.pllab.riec.tohoku.ac.jp/smlsharp/
 Directory: pool/s/smlsharp
 Package-List:
  smlformat deb devel optional arch=amd64

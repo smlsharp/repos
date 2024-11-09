@@ -1,0 +1,63 @@
+Package: massivethreads
+Format: 3.0 (quilt)
+Binary: libmassivethreads0, libmassivethreads-dev
+Architecture: amd64 arm64 i386 sparc64
+Version: 1.02-0v1~debian12+1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.6.0.1
+Build-Depends: debhelper-compat (= 13)
+Homepage: https://github.com/massivethreads/massivethreads
+Vcs-Browser: https://salsa.debian.org/debian/massivethreads
+Vcs-Git: https://salsa.debian.org/debian/massivethreads.git
+Directory: pool/m/massivethreads
+Package-List:
+ libmassivethreads-dev deb libdevel optional arch=amd64,arm64,i386,sparc64
+ libmassivethreads0 deb libs optional arch=amd64,arm64,i386,sparc64
+Files:
+ fe87cbfae85f7b0064b93fd881121b25 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 massivethreads_1.02.orig.tar.gz
+ ca3eabd981779de469a42e6df33c9e7e 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+Checksums-Sha1:
+ 9750ce9c73de7e606dfa4fcf44c86f20b2c3dac7 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ 7597b3c7610f0c667723c8b0a6adbb75acfd679f 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+Checksums-Sha256:
+ d90602c2f997b3fa9cd5abfb03cf18da02a2e1e883e1ada46c2ab9b9c3a7bc83 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ 0828404db4438b9a8866bdb03ee986d884390831c1e537f9eff320b2b6e8509f 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+Checksums-Sha512:
+ ebee01e7ca8bd82385c05811ea6d5fa750f045fd72be732e3ce1ddf43e59606c4950fd9576eeeb231fb9fdf7d6e3ff7a5ab06e24b26dd14f873a2a7bf3d301be 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ 40d6f086a870f19a1109b2a5b85331c4334d6048c4bc0746fdad81de576392b8bf8b72900b9e93dd4ef68e7c2840092b164796f82681a3a40e7c664e217f12d1 2889224 massivethreads_1.02.orig.tar.gz
+ d6610d125efd65e3b26e22b875174fef9432e8260ab03d9a217e59f878dee44f4d7cd65af2e186089d250150dbbded071d8c6fbcf01517b8e776fc5689ef60f6 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+
+Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp
+Architecture: amd64
+Version: 4.1.0-0v1~debian12+1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.5.1
+Build-Depends: debhelper-compat (= 13), libgmp-dev, llvm-16-dev, libmassivethreads-dev
+Homepage: https://smlsharp.github.io
+Vcs-Browser: https://salsa.debian.org/debian/smlsharp
+Vcs-Git: https://salsa.debian.org/debian/smlsharp.git
+Directory: pool/s/smlsharp
+Package-List:
+ smlsharp deb devel optional arch=amd64
+Files:
+ 3432d1309b5a58c411d80d89ad43db18 1930 smlsharp_4.1.0-0v1~debian12+1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 smlsharp_4.1.0.orig.tar.gz
+ fc2ab85c64d1a2bc791b6f584b753e29 6276 smlsharp_4.1.0-0v1~debian12+1.debian.tar.xz
+Checksums-Sha1:
+ 3564e8a63fa938787ec4d84932b57c60b082a372 1930 smlsharp_4.1.0-0v1~debian12+1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ e3197c7f80067d364c89705e882a2803d7f530de 6276 smlsharp_4.1.0-0v1~debian12+1.debian.tar.xz
+Checksums-Sha256:
+ acc6b27a47953fa6f45a440e7a99bc0cf3e8538c36e72c255d5a0e6423f1dc0a 1930 smlsharp_4.1.0-0v1~debian12+1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ 397b48f84eed7b178d0883ae04510268cfa4b41e871069c5eead40500312cd62 6276 smlsharp_4.1.0-0v1~debian12+1.debian.tar.xz
+Checksums-Sha512:
+ 04c22b34da635ed0db4c82fd5d38c5d908351a81af75c8ff7ade3651954d80563dcff238f20cc26723cc9cd15c7c4d2489b98d6d8fd8fd6ec92b3b86e7e1b023 1930 smlsharp_4.1.0-0v1~debian12+1.dsc
+ 8e692f04b1b37fa516d61984b0c18cca380e24e5a461db415862f109bc8982418527c6efab69ebf7cca694b497250862e2dfd85034429b4d14e16bcab619ced7 14181338 smlsharp_4.1.0.orig.tar.gz
+ 640dff6804123e143bd5d6d25bafabfe0ad13cfd6e417050205dc6ab37aba9de7f0698c3005be002ee16d048b3507db4d5dcf7c309caed0e6642853fe00c3b46 6276 smlsharp_4.1.0-0v1~debian12+1.debian.tar.xz
+

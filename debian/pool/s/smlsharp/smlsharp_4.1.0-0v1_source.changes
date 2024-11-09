@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 08 Nov 2024 22:35:18 +0900
+Source: smlsharp
+Architecture: source
+Version: 4.1.0-0v1
+Distribution: unstable
+Urgency: medium
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ smlsharp (4.1.0-0v1) unstable; urgency=medium
+ .
+   * New upstream release.
+   * Remove debian/patches/0001-Add-support-LLVM-14.0.patch.
+   * Specify LLVM version explicitly.
+   * debian/control: Add required dependencies for smlsharp to run.
+   * Install documents and manpages.
+Checksums-Sha1:
+ 09b30c336ec5c2e5898b23498d3e0d69727f5057 1886 smlsharp_4.1.0-0v1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ 97782f4eddf2ec48cd3eb25b9018194439a3362e 6240 smlsharp_4.1.0-0v1.debian.tar.xz
+ dfb1665617faab3345ec3f7ba850ba27f337e2ca 7577 smlsharp_4.1.0-0v1_source.buildinfo
+Checksums-Sha256:
+ eb7b2933dce9a84ce9df03b933874e94ebeb1ad357643ac61f3a3f96abf7bc79 1886 smlsharp_4.1.0-0v1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ 91bd7cf76acdc563b951bc063c0522cdee5e6d2e98ce28dc0b5a032235e8bbf5 6240 smlsharp_4.1.0-0v1.debian.tar.xz
+ 518715c4027b688a967593be52d23d4d532821eb31fbe3e8acaf960046371551 7577 smlsharp_4.1.0-0v1_source.buildinfo
+Files:
+ 1ebf510212ca9fe15e0edb3cd61c5d51 1886 devel optional smlsharp_4.1.0-0v1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 devel optional smlsharp_4.1.0.orig.tar.gz
+ 5b77ff9dff010097b45d800678c68e10 6240 devel optional smlsharp_4.1.0-0v1.debian.tar.xz
+ 20964bc74bf025bc8f16f1a3c4f39fb9 7577 devel optional smlsharp_4.1.0-0v1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA5wACgkQ0pn3H8XB
+0S6gXxAAnM8DeiZB5Tr2yP7n25H/zvslPjbxr7VDpvJONUov+FjXvm0fcHcPOIUb
+8lejKRko1HEk4SBdWNT1SD9gmAJVqB5L9hgxAnyNplaljoUBXLdZ+JIg/PWYbVCK
+Iskr1Blimkf58rNoC/FIyy/111VrTH5GCblxCqYZK/Sc5NAbxrOC7O4EVWYTdety
+TkXBtFv1WueNeLwqQe2DBnV9oct2Ez7ZTRr2IAzqNSyTkpjBoDOymPjXGYKN+Wn8
+KRX6JczxyWQ7ktYw1qZa2cMG+6NNcwQT6Qg25cJRqr5jvahKjuQKN1y0sNLB7BEC
+n5SOEO0CxG9/V66L2r4VX7iyzrQVDGfhvWAe05SFcHgJWlr93cMa6A+dw7TUCq5o
+WbZ2KLYpY5XsO/4Sre8SwsHlVXYzeRjjCTayS4xQZGoQl9TJOEWLIUwP4BXLhJvm
+FEV54uE9anLjlPgqqhEkS8n+TIafAcx1wfJ5MzDOuw9Y7b17C15H/ow4ZJYbb/zl
+XNQgU5Q4B6NV73D6PfC9OIF11SVhNrPfwpKWiiNDTodrj56KTekH+9wAGxzmpPUn
+BdvGrn0GcuRw3vsEM3S0Wy2lWDaqyEuc3o0Yeh7MiFj8CeNEo/Q86AkF1bEssZwZ
+W9H7FFykqoPzNgkMylYLhCnbiVvs/vMRMvWEGjae98f0Fr+ite4=
+=galV
+-----END PGP SIGNATURE-----

@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 10:38:34 +0900
+Source: massivethreads
+Architecture: source
+Version: 1.02-0v1~debian12+1
+Distribution: unstable
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ massivethreads (1.02-0v1~debian12+1) unstable; urgency=low
+ .
+   * Build for bookworm.
+Checksums-Sha1:
+ 9750ce9c73de7e606dfa4fcf44c86f20b2c3dac7 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ 7597b3c7610f0c667723c8b0a6adbb75acfd679f 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+ ac272a89248315616293cc8f4cfd1d04e5cb57b8 5730 massivethreads_1.02-0v1~debian12+1_source.buildinfo
+Checksums-Sha256:
+ d90602c2f997b3fa9cd5abfb03cf18da02a2e1e883e1ada46c2ab9b9c3a7bc83 2108 massivethreads_1.02-0v1~debian12+1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ 0828404db4438b9a8866bdb03ee986d884390831c1e537f9eff320b2b6e8509f 19468 massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+ 5d3cea1a5eb32f7c80f5395a69518943cea84a4ea9e63aaa079b3f3e8988d445 5730 massivethreads_1.02-0v1~debian12+1_source.buildinfo
+Files:
+ fe87cbfae85f7b0064b93fd881121b25 2108 devel optional massivethreads_1.02-0v1~debian12+1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 devel optional massivethreads_1.02.orig.tar.gz
+ ca3eabd981779de469a42e6df33c9e7e 19468 devel optional massivethreads_1.02-0v1~debian12+1.debian.tar.xz
+ 64cf0a0357ab8752db6c82679c13b186 5730 devel optional massivethreads_1.02-0v1~debian12+1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA5oACgkQ0pn3H8XB
+0S6zYRAAky1aI/MprJkbZNss+X3J1rw3eBzI/wdGFTFotyMNGCSPZDWIt2A2qcSE
+AlbkjgKHOHHUJXJnHk4EIeZc1zPgO5JHwcnMmz1ADpGZsTEYy5Z5EU9S90KGk0uG
+LJ4cVtFWMMzVfAZN3u7zBhOLNgM2FSbhck9gANDRitKCdMqql6aC8Uh2ESbuJ2BY
+5D43QQR9uOkmcgOuWd0D6Lcnh0zvgNV8YSQ+RvH/jwFDYNFGGoGdDPB4stty9L3Q
+yoqR26/qSwVVQeZ+aALY5tS+ed1vOCoQGSuYb8OJ/8LGoV9AWY8HNAVcln1vkIMr
+nZgqgD3lgKl++JlonZv+UPG/AsDpyvnVs6V6HJKnrRu0bs2lB3VKTrEJygtNeac6
+QxLfrgX1VDohDEABeCqm3gcmK1k/HqZw4xaKYYLfPs3ocDSh8nEx6OEgvivm8JRF
+jPYM3BUyd3EhVSI57j6d43elzvSXni1w0Ywj9bW8UH+9vWUYcLYpN0k/PKCUzyAl
+UInG9bdhryEiixaxpgR4eGlnugvGndBNIb9dAc70NABZhTgS1M1xpdNyZ+RkBkWD
+QY6uF25hflF4GH/1oYopWICszSQ51A+bUi9SW9bo7joke6jc9SSoldYxl9kFXvg1
+/7an4vi3QfLN31gHc+25H+fM90JDA0J16xeg8qz/KwGw+mZbah0=
+=SIk7
+-----END PGP SIGNATURE-----

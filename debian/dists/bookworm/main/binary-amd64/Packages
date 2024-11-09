@@ -1,0 +1,67 @@
+Package: libmassivethreads-dev
+Architecture: amd64
+Version: 1.02-0v1~debian12+1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 1009
+Depends: libmassivethreads0 (= 1.02-0v1~debian12+1)
+Filename: pool/l/libmassivethreads/libmassivethreads-dev_1.02-0v1~debian12+1_amd64.deb
+Size: 138052
+MD5sum: 766c557793746b752720386d594cbd2e
+SHA1: ee0ffb99b45f74232977c458f389a27df06dd7c8
+SHA256: e287b56deaa2585770b8f8a4a3d449752b482c2c04104c317a3cbbac471b4adf
+SHA512: 018967c81f6e2ec6d6e685db4e0055094541a7f9ebcf1bb558f84c22c7ac618eeb8b4a41166640cc0c99534ae31a394bfa753f49855f75781463363f333c3771
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - devel
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package contains files that are needed to build applications.
+
+Package: libmassivethreads0
+Architecture: amd64
+Version: 1.02-0v1~debian12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 758
+Depends: libc6 (>= 2.34)
+Filename: pool/l/libmassivethreads/libmassivethreads0_1.02-0v1~debian12+1_amd64.deb
+Size: 132920
+MD5sum: cfeb52927302d79787a40bad93c1e69b
+SHA1: 1a0cb2382a6ac82acc012f85340a1aed9a2b92c2
+SHA256: 4782f599896179791418c6d8c8f1d50a815ba6e48a4e723052b6cbe937f97142
+SHA512: a9eb726970edfaac6e53aff1a8c8e924fa52f266d510f51770e81bf39fdc92c22e2c21b028f2281fa40c4b9b07eb738556e9212e8b2f0106d341540403eacfbf
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - libs
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package includes the shared library.
+
+Package: smlsharp
+Architecture: amd64
+Version: 4.1.0-0v1~debian12+1
+Priority: optional
+Section: devel
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 51462
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg1), libmassivethreads0 (>= 1.02), libstdc++6 (>= 5.2), gcc, llvm-16, libc-dev, libgmp-dev, libmassivethreads-dev
+Filename: pool/s/smlsharp/smlsharp_4.1.0-0v1~debian12+1_amd64.deb
+Size: 6713384
+MD5sum: 8d13a9f2f780739630a2cd4cd9c4049b
+SHA1: bb00f063419a6187d9cd20438e2894451b9e352d
+SHA256: af81a23f259136b98ada0ee2b420eb72c17d39d602ddf9ec6b40f40885254b63
+SHA512: 5ccbb6ffd372436bce8e16daac7bba29af34a90ffbdc212deb08ac20b99773425c9eb3b0b1088a094a410b98686194f177741370a4e127c208b3b52ef1a78feb
+Homepage: https://smlsharp.github.io
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming
+ language with several practical extentions,
+ including seamless interoperability with C,
+ integration with SQL, and separate compilation.
+

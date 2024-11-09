@@ -1,0 +1,5 @@
+Types: deb-src
+URIs: https://smlsharp.github.io/repos/ubuntu
+Suites: noble
+Components: main
+Signed-By: /etc/apt/keyrings/smlsharp-archive-keyring.gpg

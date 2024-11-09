@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 10:55:03 +0900
+Source: massivethreads
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.02-0v1ppa1~ubuntu24.04.1
+Distribution: noble
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ massivethreads (1.02-0v1ppa1~ubuntu24.04.1) noble; urgency=low
+ .
+   * Build for noble.
+Checksums-Sha1:
+ bb6d7a679c79b70c68a142604a58b39503641d16 2136 massivethreads_1.02-0v1ppa1~ubuntu24.04.1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ ca807e6fa0adc004942c1484a455a6fc3fb036c5 19492 massivethreads_1.02-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 7eb4b5c5a6793d664d9d1e881fc8535eaa55adb3 6639 massivethreads_1.02-0v1ppa1~ubuntu24.04.1_source.buildinfo
+Checksums-Sha256:
+ de6311c3a43e7b1daa7b802d91be276c7f803624919e3ecb3cc82859bf538e04 2136 massivethreads_1.02-0v1ppa1~ubuntu24.04.1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ a0f4efc06268dffda51aca8d7ebddc6deff4757d1d35e61feea9208f9c633d82 19492 massivethreads_1.02-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 7e9f58a89ea7510088a3cc4508cfd34d8a00897ea68e11369fd844b42338bea1 6639 massivethreads_1.02-0v1ppa1~ubuntu24.04.1_source.buildinfo
+Files:
+ 2bc2e0ba406a63f43d69a3f14a0b83c3 2136 devel optional massivethreads_1.02-0v1ppa1~ubuntu24.04.1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 devel optional massivethreads_1.02.orig.tar.gz
+ 65020c333d1abb3003a121375b3714ed 19492 devel optional massivethreads_1.02-0v1ppa1~ubuntu24.04.1.debian.tar.xz
+ 074e434b5adf361f53e3f3107076dfcc 6639 devel optional massivethreads_1.02-0v1ppa1~ubuntu24.04.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA54ACgkQ0pn3H8XB
+0S6uyQ//eYUY+tTuegGSKY6rJpQ67q95eNPdHO264CFhgkVDSW7vVFABREzAJVAh
+KsnA0t5ZqRngrcpq/s5PViwbru6hPVjhDBQjY2+Ge2K2EVMXFqNsi6JAav5BO7WW
+PaNBhHSyDGaBPR8d5pjNaAd+DMTnFUImUEjCfYP0GAzh0uKXP4PpB03JgSWWj0Sx
+c67xykY6Mpb1tsJjQYLBPQvpgrx3vrWK+Fls6F62uthpZ1Cg/rcn8iyGkgtM2B1Y
+bCS1gaXIHqX4b5Zt+4yNwML8I2mfXWXmMDo3/AJhevab4WNe3Mj983EuhGxy82K/
+h1USZePslpwT7GI5La/W2NLnC5HNYRXaw9Jk08v+21gZ3Watw9JDih4oAkjTyCvi
+SYqooPqfnEC0jmdzUjs5nr1La1NzA/7Gg+YDN8ct5G2QyT84xvFVu/2yMOs00JkV
+YN2F622eGS6iBeQcI4Q/SknaiynYVBpgYFisQXlIzzeBAhnIo1McovnAME3GPFYy
+THYrL2rC7DCC+37wz9d+8FU+K8hBIIbBsEwEb3hilwelAz3sUCphxmFmEQJNZU8m
+h9ioDdsKIuiDB6lIqtwvNdNIFytY1BOuEhUQZCmsGv41ZS8mCxem73KjuMdIEPW4
+JENnS0uvWE+n+84uBAEiZtUEVi55JGfL99jkyP3vDDzwVbzesnI=
+=8iYG
+-----END PGP SIGNATURE-----

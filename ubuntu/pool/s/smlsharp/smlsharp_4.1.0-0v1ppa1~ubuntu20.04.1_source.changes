@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 09 Nov 2024 11:17:19 +0900
+Source: smlsharp
+Architecture: source
+Version: 4.1.0-0v1ppa1~ubuntu20.04.1
+Distribution: focal
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ smlsharp (4.1.0-0v1ppa1~ubuntu20.04.1) focal; urgency=low
+ .
+   * Build for focal.
+Checksums-Sha1:
+ d87a89deefacc4adb15445722e47539a2fab86c2 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ 1b040b78aae14cbf8d1ea9fba05a0e7fbb6084db 14181338 smlsharp_4.1.0.orig.tar.gz
+ 59d62e4014b1d28284c670d1d26342320180742f 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ 9e284addde0ecae584cfb489ec038b45024eda50 7512 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1_source.buildinfo
+Checksums-Sha256:
+ 505cdf9db52e6a8fe802045d1f4b565435ced4e3530c1adcc1b654ef4c3f25ba 1958 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ b19543a42654f4bda1d690c6ea6e4d9ee16dc7544b95828f8a7c649e0919a8a1 14181338 smlsharp_4.1.0.orig.tar.gz
+ 04592a11a7b2978be364d76d523eb2723a4fb204d3a114a3755e08ca5cb15bea 6272 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ ebece1711826e362ade28cd64fe51391ee122e7cd5f049ff4aa222ce91ef8f92 7512 smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1_source.buildinfo
+Files:
+ e17743479f5331b31ba13c04508f8629 1958 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.dsc
+ 378a3662b875e864e755cf0c9e3efeb4 14181338 devel optional smlsharp_4.1.0.orig.tar.gz
+ 5de3849a2509df9262b276d85136511b 6272 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1.debian.tar.xz
+ 2cdb26c43eea76c508348c7fad3a50e6 7512 devel optional smlsharp_4.1.0-0v1ppa1~ubuntu20.04.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmcvA6MACgkQ0pn3H8XB
+0S5I3A/9GbiSfzYZq3VvMMKQxMN8rXTDQgrPNNXoodBdjMiEqZHgvjMQaYHuy7ui
+grFAqd87fycAIrDAq7jI5OVGnWhYh/aijQ+2fq8vrsMX78k+7Mw1bnrxMqVprCNw
+wJd5mHmJ/U4yTJlJKiv0v9dgGYF7sGDMQ3/vr0FWLMOguBeFefcNRP3kR1s4Nl2s
+Fedrp4bi5lKIs5hhg9ovFOrP7DhBeh3PdE/93ecos8q5e6OHltj13k/MSaFzVlvd
+FW9DamfWaA8ZBb7qIihKaiYUrhdMVeMFDEL7s5tv0ZPEBE8uF2gghY0Fn+/Qe9RM
+Mej6nWMc4+Ed+3vlYMLHnqHZmGIGP9MK1AzdQIGBk9XesKvbRnqtGqo7JD9B79GE
+gkcSB1ATW/hcBQpMoG6NW8ksA2lfn4grTbJV9+6BMsBClchAFv7Rxnn266w0nHlj
+NnxYmj+wPqAId3voeMq9nicltCb2SEKZXxxN+nEk7EHThhWSCp116I3hBn+gywAC
+ulwdeJlRb+ZfQHACUz6XqYJRVHWYOcm21pWlGJExWmhFR7kQuGKqvqI7tt++e+Q0
+fsrXdpqmjgw7pGQ0JspKmXrJhVob268hFyCXd0kS9aYbvWDtwvgR2YZJMqMeCHMu
+P5PqwgCtDb+oYaG9l24820tuMVSHMXdSIof/AYeDGBF+Vsxyogc=
+=uu/M
+-----END PGP SIGNATURE-----
