@@ -30,6 +30,38 @@ Checksums-Sha512:
  40d6f086a870f19a1109b2a5b85331c4334d6048c4bc0746fdad81de576392b8bf8b72900b9e93dd4ef68e7c2840092b164796f82681a3a40e7c664e217f12d1 2889224 massivethreads_1.02.orig.tar.gz
  26aff6fbff11861955c0d21cb7173290a3d5ecc21e5577c8be220867be80ded47c5389234b371f24bfbd8150502795fcf2b0847c8333d8b57ae6fea3baa6e764 19464 massivethreads_1.02-0v1ppa1~ubuntu22.04.1.debian.tar.xz
 
+Package: massivethreads
+Format: 3.0 (quilt)
+Binary: libmassivethreads0, libmassivethreads-dev
+Architecture: amd64 arm64 i386 sparc64
+Version: 1.02-4v1ppa1~ubuntu22.04.1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.7.0
+Build-Depends: debhelper-compat (= 13)
+Homepage: https://github.com/massivethreads/massivethreads
+Vcs-Browser: https://salsa.debian.org/debian/massivethreads
+Vcs-Git: https://salsa.debian.org/debian/massivethreads.git
+Directory: pool/m/massivethreads
+Package-List:
+ libmassivethreads-dev deb libdevel optional arch=amd64,arm64,i386,sparc64
+ libmassivethreads0 deb libs optional arch=amd64,arm64,i386,sparc64
+Files:
+ 2d23b644e166e285c58e8741f45843e2 2134 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 massivethreads_1.02.orig.tar.gz
+ e876cc33966dd98aba295ed2e6d7e9d8 16904 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha1:
+ 233d94d5643e3cc48d58175208374d71016950a5 2134 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ 3b7e341f04a09ed734a9325d7af13837432aeecf 16904 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha256:
+ 9079b168dd60cc4b71f457aa659d4bcabbd7b1ab4121f23044fbc406a66ea06b 2134 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ fcb319e7a10fb92352ed15be63461584b930584ad8fdd83fb3259de3ebcc6ca8 16904 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha512:
+ 744ff7d2f639400d92ceec31a87f22cbd925c2c38a36fc12eeda603b70f624e110527d8a6148852c9073d36ea6b5bab4ae93e2e20acbbef31b4ec3c4ce8d4214 2134 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.dsc
+ 40d6f086a870f19a1109b2a5b85331c4334d6048c4bc0746fdad81de576392b8bf8b72900b9e93dd4ef68e7c2840092b164796f82681a3a40e7c664e217f12d1 2889224 massivethreads_1.02.orig.tar.gz
+ d6526222113330942445d734cc68e763a29ae2d1494764834b89f0233b3831d98027e47f052a493902d895cbd9dc82aa0d05f3d218d6b329525255235e5fce47 16904 massivethreads_1.02-4v1ppa1~ubuntu22.04.1.debian.tar.xz
+
 Package: smlsharp
 Format: 3.0 (quilt)
 Binary: smlsharp
@@ -60,4 +92,35 @@ Checksums-Sha512:
  c1c2b4455db17940bfd9949c5a33478f54b0a5f757b53d305bd2ad57ab8d82e9767e2604e28d7dccf8af4485d55d72fc44d9751af94c0f2c6341c686d4015f03 1958 smlsharp_4.1.0-0v1ppa1~ubuntu22.04.1.dsc
  8e692f04b1b37fa516d61984b0c18cca380e24e5a461db415862f109bc8982418527c6efab69ebf7cca694b497250862e2dfd85034429b4d14e16bcab619ced7 14181338 smlsharp_4.1.0.orig.tar.gz
  9422ef8e5bd886f5c183d8be81bb3df355ed2308bdf6d439eba69e28e29f717d786e040cd9e23823dd21dcd0cc1d72742e3c400eb7bf533ab291aa6b6f465b71 6268 smlsharp_4.1.0-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+
+Package: smlsharp
+Format: 3.0 (quilt)
+Binary: smlsharp
+Architecture: amd64
+Version: 4.2.0-0v1ppa1~ubuntu22.04.1
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Standards-Version: 4.7.0
+Build-Depends: debhelper-compat (= 13), libgmp-dev, llvm-15-dev, libmassivethreads-dev
+Homepage: https://smlsharp.github.io
+Vcs-Browser: https://salsa.debian.org/debian/smlsharp
+Vcs-Git: https://salsa.debian.org/debian/smlsharp.git
+Directory: pool/s/smlsharp
+Package-List:
+ smlsharp deb devel optional arch=amd64
+Files:
+ 6e47067100d7691a559a86be47445bc2 1958 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.dsc
+ 73562771ec01874efbdf3e3dc4558fab 14518864 smlsharp_4.2.0.orig.tar.gz
+ 008776bb42b68a80ebbc141608d7ef7c 6352 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha1:
+ aafd60db8879f618ffbb6ccca7e929866724e927 1958 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.dsc
+ 06db7802fe24c7603f00c43727caf65d8ff32dbe 14518864 smlsharp_4.2.0.orig.tar.gz
+ c9c30025ec7b05225d8dc59e97390b78b337a270 6352 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha256:
+ 9b40346386627527042ef4e1ac8b708cc5dbc55eb0be0ef1287e46f9f409c912 1958 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.dsc
+ 931fb54762c30ab018c804e669d696522cfabafe0a6f85cadefecee1eff710b7 14518864 smlsharp_4.2.0.orig.tar.gz
+ 0a876cfdcb297a56d4626fe2de797fb83aa06973bcae4e2d7ea76ac789c06012 6352 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.debian.tar.xz
+Checksums-Sha512:
+ 8977722325a2835777f2ff4b778ed280a186d7ccf43733b4f7e9ff524c913571e17fc7099869bdb3693e8fd1d7d2fed4afefd8d9d34e50ef935d236857d69d69 1958 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.dsc
+ 6b89e1fb66428b2948f61c678c42fa265c62cce1822207eb6fa5a2c96c7a925720e49755e82f79e521cecf1b23e1706c3ae2236d69f31ff0915a21018bc765ef 14518864 smlsharp_4.2.0.orig.tar.gz
+ 55d761e2c504a7bd6cf15a8e72fb0d2d38cae7c3f03e807b22f8f17d983f8bb50cfe7797ec8374f327b412228adf5d2a29cf39463f2276f02d2fde919af2fac6 6352 smlsharp_4.2.0-0v1ppa1~ubuntu22.04.1.debian.tar.xz
 

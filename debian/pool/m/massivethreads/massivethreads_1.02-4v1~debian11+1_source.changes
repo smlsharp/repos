@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 24 Mar 2025 20:23:11 +0900
+Source: massivethreads
+Architecture: source
+Version: 1.02-4v1~debian11+1
+Distribution: unstable
+Urgency: low
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Changed-By: Katsuhiro Ueno <katsu@ie.niigata-u.ac.jp>
+Changes:
+ massivethreads (1.02-4v1~debian11+1) unstable; urgency=low
+ .
+   * Build for bullseye.
+Checksums-Sha1:
+ 0ea4b059ebfd25dca60dda552a90b7bd59c2fa27 2106 massivethreads_1.02-4v1~debian11+1.dsc
+ 982e18c0466a5592fab9626fc48e74491995eedb 2889224 massivethreads_1.02.orig.tar.gz
+ d14e03149f1d7c7ece792747d7a3da479de5709e 16888 massivethreads_1.02-4v1~debian11+1.debian.tar.xz
+ 9c56b49c4ea8ae604e56ff743601941fb748ba5a 5713 massivethreads_1.02-4v1~debian11+1_source.buildinfo
+Checksums-Sha256:
+ 7f2a0f1111637d30f6e20e48d36aa469d960674f1b8268dc3cd555c7978276f2 2106 massivethreads_1.02-4v1~debian11+1.dsc
+ b2f6320f51cbfbc051226a61baf9323c016c28f033283e269007493afab0123c 2889224 massivethreads_1.02.orig.tar.gz
+ f4147cc3dcb4472af32174ab7c41d06d8a2e8a66ede3e82478112327c26df2cb 16888 massivethreads_1.02-4v1~debian11+1.debian.tar.xz
+ 7c17ec92c4ec1c35e5f8adeab71f5e2e6ecad66569cf64e8c67fbf17e0bd9213 5713 massivethreads_1.02-4v1~debian11+1_source.buildinfo
+Files:
+ 7fdf35653c341097423639886f219844 2106 devel optional massivethreads_1.02-4v1~debian11+1.dsc
+ 5a41051b2179e864e2639249e4a03f3e 2889224 devel optional massivethreads_1.02.orig.tar.gz
+ 600548fc5b8403e3e355b47e471ec525 16888 devel optional massivethreads_1.02-4v1~debian11+1.debian.tar.xz
+ e14a5f896c4f586710fbb9ec77f45805 5713 devel optional massivethreads_1.02-4v1~debian11+1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3ZkrUMmjsHXaBGE60pn3H8XB0S4FAmfhS+gACgkQ0pn3H8XB
+0S5pwQ/8DM2OihEvBykqilt4FZzXF/9lKg9/m1LMGva8Is0PN70sQjrVwYerYT2l
+3s+yNK3kj+WRARhcDtAqL9czgvHVkGWiLlkt3Nh/kQuv/H+tsppI6PUD3XKf9Oxo
+ouFLezurTOqpGn07NjYf3bYTowKNrR9zaYPQ3JmJhc3/J1aGt4K9RZIjqcLaUIox
+ESZp9cUHhIX+SWwZg2SUqo1+28mamQhoCfGiwPmKUHHFJxzqda4pTWRQTMX52szr
+bgMkpFc14CFzFOXfftI0v3DU8xzzmlUz3Xl8haBC4kW1gK4Tad9h0L4C3IzTexV2
+0tKaKiMejG2Hs1gBo99jn7j+cdfJCLdAT1r5vpLRGhKRoO8B+lX2tpv67GrdDfw3
+sPkBgXRxY6HMyHJCfPH8x1y4mVsv+sKELplMQWm8n6TE/295E3JA9VdsptUdevM4
+ICVPJYck6LSOs09UrY0euEHrz30wTO0faAKZ9/oHZWUFFT+8Hzp3Wlp5gH1AAwjd
+D9N2d7IH0QQ96ORbXrLA1pMuRdGF6lC+poeTDao6NCQIgF4iJjUhZ2V5jV7oCZNE
++9uGcetxlNY+xkjeNNLgi9J9H+Om0ISidfO7g2VIpJXDT88W7uVDmsVoa8jjxz0K
+dIBkqIoHV+xJT7oRv4BSrVCCYpciDTAk91mdSB4uLnQHM5R5XK0=
+=u3hb
+-----END PGP SIGNATURE-----

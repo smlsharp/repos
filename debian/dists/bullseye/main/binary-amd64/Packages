@@ -21,6 +21,29 @@ Description: Lightweight Thread Library for High Productivity Languages - devel
  .
  This package contains files that are needed to build applications.
 
+Package: libmassivethreads-dev
+Architecture: amd64
+Version: 1.02-4v1~debian11+1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 1029
+Depends: libmassivethreads0 (= 1.02-4v1~debian11+1)
+Filename: pool/l/libmassivethreads/libmassivethreads-dev_1.02-4v1~debian11+1_amd64.deb
+Size: 137980
+MD5sum: d2bd2d98f090d281a9769e1563ef1211
+SHA1: 05787a3b1d72ea7f355c2f9b894e5a65f70fe75a
+SHA256: f71901739ec0b01517ca6169aa0a4c4f4f131c87c6a7bbd1012de7e3143c9381
+SHA512: 96616745e941b249239e9b499b77fb46160b60f20d111d5533095a86fab1aa8152b35685467f30fa1d749d455fc481506a7126c5e5f074dfaaeb2e4868975e25
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - devel
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package contains files that are needed to build applications.
+
 Package: libmassivethreads0
 Architecture: amd64
 Version: 1.02-0v1~debian11+1
@@ -37,6 +60,29 @@ MD5sum: e08202ce5d13255d16288f235e544489
 SHA1: 28fce2de1cbf755e3bd962780feff2f1a5ab9db2
 SHA256: c90aeddc8c54cc0d8fefc8ff0b22f9f171b56881cc4430756857895e682842ea
 SHA512: 23943fd9ecb333f1d2a96637686091c342ea5f01aa8bd060a8211200350a9e560ac9dce5e883248ebea13fbc0abc174036cfb13e204ae0466cc04fb743eb29db
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - libs
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package includes the shared library.
+
+Package: libmassivethreads0
+Architecture: amd64
+Version: 1.02-4v1~debian11+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 769
+Depends: libc6 (>= 2.18)
+Filename: pool/l/libmassivethreads/libmassivethreads0_1.02-4v1~debian11+1_amd64.deb
+Size: 136308
+MD5sum: 788fc853c380652cbed72aaccc624da5
+SHA1: 250b3d6bb15cb057cef09f5d1133f4d28d7c6442
+SHA256: 0df738882b8ed8fe4b0d570f0ecc078be6d6453a098132cf930a90c373d18577
+SHA512: c8c379720c9543f6565e7c5be13436fe47907b2c408cfe8037625590ed61ab922763be377557c71f0c3aa15339c2040c46c8764b98fa60bf5a06c13cf591e4cb
 Homepage: https://github.com/massivethreads/massivethreads
 Description: Lightweight Thread Library for High Productivity Languages - libs
  This provides a multithreaded processing library to achieve
@@ -62,6 +108,27 @@ Homepage: https://smlsharp.github.io
 Description: Standard ML compiler with practical extensions
  SML# is a variant of Standard ML programming
  language with several practical extentions,
+ including seamless interoperability with C,
+ integration with SQL, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 4.2.0-0v1~debian11+1
+Priority: optional
+Section: devel
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 50424
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libgmp10, libmassivethreads0 (>= 1.02), libstdc++6 (>= 5.2), gcc, llvm-16, libc-dev, libgmp-dev, libmassivethreads-dev
+Filename: pool/s/smlsharp/smlsharp_4.2.0-0v1~debian11+1_amd64.deb
+Size: 6444080
+MD5sum: 77a89659b701eb0ad56224659a7f3a5b
+SHA1: fbacbe59067310454ef3c1e1739131e68b0f1cce
+SHA256: 3cbd1c7b3f25744c6a3368975ef1d08cc70f02fb546652209a30d5e031a127ee
+SHA512: 000322169fd4f6efcb138d9bdf04523e1b586c8baf1250aeaca7ac903d0e348d1c6ce3e292e6b50d43f2fd9224983d9a97b8030e36bc26c422d0814f19f6a785
+Homepage: https://smlsharp.github.io
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming
+ language with several practical extensions,
  including seamless interoperability with C,
  integration with SQL, and separate compilation.
 

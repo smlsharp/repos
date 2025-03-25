@@ -21,6 +21,29 @@ Description: Lightweight Thread Library for High Productivity Languages - devel
  .
  This package contains files that are needed to build applications.
 
+Package: libmassivethreads-dev
+Architecture: amd64
+Version: 1.02-4v1~debian12+1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 1016
+Depends: libmassivethreads0 (= 1.02-4v1~debian12+1)
+Filename: pool/l/libmassivethreads/libmassivethreads-dev_1.02-4v1~debian12+1_amd64.deb
+Size: 139040
+MD5sum: f648d426ba20089dfb4980ca2bd7eebd
+SHA1: 9cc613078c7ef7037f575940c3e0b9693e3c4b12
+SHA256: 530cb54417f5040b495b60e1556264221b67e19d7ea9ccfcdb4e667f973ff871
+SHA512: aadbd1a91f624540a9993f54f92a464475a647d31c10592c7178ad72a3e0487040e361b49044f5ccfca5be70db54ed95a225a37e3d053582f272f50301d38da9
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - devel
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package contains files that are needed to build applications.
+
 Package: libmassivethreads0
 Architecture: amd64
 Version: 1.02-0v1~debian12+1
@@ -37,6 +60,29 @@ MD5sum: cfeb52927302d79787a40bad93c1e69b
 SHA1: 1a0cb2382a6ac82acc012f85340a1aed9a2b92c2
 SHA256: 4782f599896179791418c6d8c8f1d50a815ba6e48a4e723052b6cbe937f97142
 SHA512: a9eb726970edfaac6e53aff1a8c8e924fa52f266d510f51770e81bf39fdc92c22e2c21b028f2281fa40c4b9b07eb738556e9212e8b2f0106d341540403eacfbf
+Homepage: https://github.com/massivethreads/massivethreads
+Description: Lightweight Thread Library for High Productivity Languages - libs
+ This provides a multithreaded processing library to achieve
+ dynamic load balancing within compute nodes.
+ .
+ This package includes the shared library.
+
+Package: libmassivethreads0
+Architecture: amd64
+Version: 1.02-4v1~debian12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: massivethreads
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 765
+Depends: libc6 (>= 2.34)
+Filename: pool/l/libmassivethreads/libmassivethreads0_1.02-4v1~debian12+1_amd64.deb
+Size: 134128
+MD5sum: d1eafbffba4fac90eb47de3d8041c1f0
+SHA1: 89492f2c95fcbc3b2dbc4979e7837d53c7394114
+SHA256: f2ca71376196fa321a4252c74ab05c90e6e0fe7d7d6282369adda9dd2b2feac9
+SHA512: 9a47722292e4829c3a61f6527cbd1fd6099b20a13ae9d89a41f2b4033d984c4ccbee3e577d3220847ce855b4f24e85c9ae4c70ce2d0404ed513465e7a3365cd5
 Homepage: https://github.com/massivethreads/massivethreads
 Description: Lightweight Thread Library for High Productivity Languages - libs
  This provides a multithreaded processing library to achieve
@@ -62,6 +108,27 @@ Homepage: https://smlsharp.github.io
 Description: Standard ML compiler with practical extensions
  SML# is a variant of Standard ML programming
  language with several practical extentions,
+ including seamless interoperability with C,
+ integration with SQL, and separate compilation.
+
+Package: smlsharp
+Architecture: amd64
+Version: 4.2.0-0v1~debian12+1
+Priority: optional
+Section: devel
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 50402
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg1), libmassivethreads0 (>= 1.02), libstdc++6 (>= 5.2), gcc, llvm-19, libc-dev, libgmp-dev, libmassivethreads-dev
+Filename: pool/s/smlsharp/smlsharp_4.2.0-0v1~debian12+1_amd64.deb
+Size: 6445604
+MD5sum: bb460daf7b021fc4070d3c68d7248f16
+SHA1: 1f1c192b0a7b4608fe5c82c96899471fbbc1cb89
+SHA256: e733e3a226df480350f8950fda4b62d2ff05c380d260e12bbbc4ef2df7ead9fa
+SHA512: 8319c7549adef9204b3716a0e7d4cb01b2f6ca5ca401d9d38358801ef931fb3f3db76fc1bbdcb06f4782ef2944c4d7f258fd5e2dac5984449e0ea843ab7b8240
+Homepage: https://smlsharp.github.io
+Description: Standard ML compiler with practical extensions
+ SML# is a variant of Standard ML programming
+ language with several practical extensions,
  including seamless interoperability with C,
  integration with SQL, and separate compilation.
 
